@@ -1,0 +1,42 @@
+.HomePage {
+  background: url('./background.jpg');
+  background-position: center center;
+  background-size: cover;
+  color: white;
+}
+
+.page-title {
+  color: white;
+  font-family: 'Norican', cursive;
+}
+
+.page-subtitle {
+  margin-top: -8px;
+}
+
+.catchline {
+  background: #a50000;
+  left: 50%;
+  font-size: 1.5rem;
+  padding: 7px 0 12px;
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%);
+  width: 270px;
+}
+
+@media (min-width: 768px) {
+  .page-title {
+    font-size: 4rem;
+  }
+
+  .page-subtitle {
+    font-size: 1.75rem;
+  }
+}
+
+@media (min-aspect-ratio: 1/1) {
+  .header {
+    width: 50%;
+  } 
+}
