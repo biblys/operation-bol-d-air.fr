@@ -2,9 +2,9 @@ import React from 'react';
 
 import './HomePage.css';
 
-function App() {
+export default function HomePage() {
   return (
-    <div className="HomePage page">
+    <div id="home" className="HomePage page">
       <header className="header">
         <h1 className="page-title">Opération Bol d'air</h1>
         <p className="page-subtitle">- spécial confinement -</p>
@@ -20,11 +20,11 @@ function App() {
       </p>
 
       <footer className="footer">
-        Découvrir les livres{' '}
-        <span role="img" aria-label="down">👇</span>
+        <a href="#books">
+          Découvrir les livres{' '}
+          <span role="img" aria-label="down">👇</span>
+        </a>
       </footer>
     </div>
   );
 }
-
-export default App;

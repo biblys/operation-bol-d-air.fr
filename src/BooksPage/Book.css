@@ -1,0 +1,22 @@
+
+.Book .date {
+  background: rgba(0, 0, 0, .5);
+}
+
+.Book .book-cover {
+  height: 50vh;
+  margin: 15px 0;
+}
+
+.Book .book-cover-image {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.Book .publisher {
+  background: #a50000;
+  font-size: 0.9rem;
+  margin: auto;
+  max-width: 250px;
+  padding: 10px;
+}

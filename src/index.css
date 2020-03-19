@@ -13,7 +13,7 @@ body {
 .page {
   box-sizing: border-box;
   height: 100vh;
-  padding: 15px;
+  padding: 15px 0;
   text-align: center;
 }
 
@@ -26,6 +26,14 @@ body {
   padding: 10px 0;
   position: absolute;
   width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+.footer a {
+  text-decoration: none;
 }
 
 h1 {

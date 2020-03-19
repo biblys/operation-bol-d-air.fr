@@ -5,16 +5,16 @@
   color: white;
 }
 
-.page-title {
+.HomePage .page-title {
   color: white;
   font-family: 'Norican', cursive;
 }
 
-.page-subtitle {
+.HomePage .page-subtitle {
   margin-top: -8px;
 }
 
-.catchline {
+.HomePage .catchline {
   background: #a50000;
   left: 50%;
   font-size: 1.5rem;
@@ -26,17 +26,17 @@
 }
 
 @media (min-width: 768px) {
-  .page-title {
+  .HomePage .page-title {
     font-size: 4rem;
   }
 
-  .page-subtitle {
+  .HomePage .page-subtitle {
     font-size: 1.75rem;
   }
 }
 
 @media (min-aspect-ratio: 1/1) {
-  .header {
+  .HomePage .header {
     width: 50%;
   } 
 }

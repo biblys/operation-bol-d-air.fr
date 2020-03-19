@@ -1,0 +1,11 @@
+.BooksPage {
+  background: url('./background.jpg');
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  position: relative;
+}
+
+.BooksPage .swiper-slide {
+  width: 70%;
+}
