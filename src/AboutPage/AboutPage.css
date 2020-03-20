@@ -1,0 +1,37 @@
+.AboutPage {
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+
+.AboutPage .text {
+  margin: auto;
+  text-align: left;
+  width: 90%;
+}
+
+.AboutPage .page-title {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.AboutPage .section-title {
+  font-size: 1.25rem;
+  margin: 2rem 0 1rem;
+}
+
+.AboutPage p,
+.AboutPage ul {
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+
+.AboutPage li {
+  margin: 0.25rem;
+}
+
+@media (min-width: 768px) {
+  .AboutPage .text {
+    width: 500px;
+  }
+}

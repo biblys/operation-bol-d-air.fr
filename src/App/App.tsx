@@ -2,7 +2,7 @@ import React from 'react';
 import HomePage from '../HomePage/HomePage';
 import BooksPage from '../BooksPage/BooksPage';
 import SubscribePage from '../SubscribePage/SubscribePage';
-
+import AboutPage from '../AboutPage/AboutPage';
 
 import './App.css';
 
@@ -12,6 +12,7 @@ function App() {
       <HomePage/>
       <BooksPage/>
       <SubscribePage/>
+      <AboutPage/>
     </div>
   );
 }
