@@ -38,6 +38,14 @@ export default function BooksPage() {
     slidesPerView: 'auto',
     spaceBetween: 30,
     centeredSlides: true,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev'
+    },
+    keyboard: {
+      enabled: true,
+      onlyInViewport: false,
+    },
     breakpoints: {
       500: {
         slidesPerView: 3
