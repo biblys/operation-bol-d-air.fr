@@ -4,7 +4,10 @@
 }
 
 .Book .book-cover {
+  align-items: flex-end;
+  display: flex;
   height: 50vh;
+  justify-content: center;
   margin: 15px 0;
 }
 
@@ -20,6 +23,10 @@
   max-width: 250px;
   padding: 10px;
   text-decoration: none;
+}
+
+.Book .button.green {
+  background: #3A6;
 }
 
 .Book .button.blue {
