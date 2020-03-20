@@ -1,10 +1,17 @@
 import React from 'react';
 
+import backgroundResizer from '../lib/backgroundResizer';
+
 import './SubscribePage.css';
 
-export default function HomePage() {
+const backgroundImageFile = 'home-page-background.jpg';
+const backgroundImage = backgroundResizer(
+  backgroundImageFile, window.innerWidth, window.innerHeight, window.devicePixelRatio
+);
+
+export default function SubscribePage() {
   return (
-    <div id="subscribe" className="SubscribePage page">
+    <div id="subscribe" className="SubscribePage page" style={{ backgroundImage }}>
       <iframe 
         title="mailjet"
         className="mailjet-iframe" 

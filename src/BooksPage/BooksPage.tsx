@@ -5,6 +5,7 @@ import Book from './Book';
 
 import 'swiper/css/swiper.css';
 import './BooksPage.css';
+import backgroundResizer from '../lib/backgroundResizer';
 
 const books = [
   {
@@ -32,6 +33,10 @@ const books = [
     publisherUrl: "https://editions.scylla.fr/"
   }
 ]
+const backgroundImageFile = 'books-page-background.jpg';
+const backgroundImage = backgroundResizer(
+  backgroundImageFile, window.innerWidth, window.innerHeight, window.devicePixelRatio
+);
 
 export default function BooksPage() {
   const params = {
@@ -54,7 +59,7 @@ export default function BooksPage() {
   };
 
   return (
-    <div id="books" className="BooksPage page">
+    <div id="books" className="BooksPage page" style={{ backgroundImage }}>
       <div className="books">
         <Swiper {...params}>
           {books.map(book => <div key={book.dayNum}><Book {...book} /></div>)}
