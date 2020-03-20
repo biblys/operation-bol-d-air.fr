@@ -9,15 +9,27 @@ import './BooksPage.css';
 const books = [
   {
     dayNum: 1,
-    date: "20 mars",
+    date: "21 mars",
     publisherName: "Le Bélial'",
     publisherUrl: "https://www.belial.fr/"
   },
   {
     dayNum: 2,
-    date: "21 mars",
+    date: "22 mars",
     publisherName: "Dystopia",
     publisherUrl: "https://www.dystopia.fr/"
+  },
+  {
+    dayNum: 3,
+    date: "23 mars",
+    publisherName: "Velvet",
+    publisherUrl: "https://www.editionsvelvet.com/"
+  },
+  {
+    dayNum: 4,
+    date: "24 mars",
+    publisherName: "Scylla",
+    publisherUrl: "https://editions.scylla.fr/"
   }
 ]
 
