@@ -1,0 +1,25 @@
+.SubscribePage {
+  background: url('./background.jpg');
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: white;
+}
+
+.SubscribePage .mailjet-iframe {
+  background: white;
+  height: 100vh;
+  left: 50%;
+  max-width: 640px;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100vw;
+}
+
+@media (min-width: 768px) {
+  .SubscribePage .mailjet-iframe {
+    background: none;
+    height: 426px;
+  }
+}
