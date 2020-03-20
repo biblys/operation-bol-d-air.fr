@@ -22,6 +22,10 @@
   text-decoration: none;
 }
 
+.Book .button.green {
+  background: #3A6;
+}
+
 .Book .button.blue {
   background: #369;
 }
