@@ -4,7 +4,7 @@ import backgroundResizer from '../lib/backgroundResizer';
 
 import './SubscribePage.css';
 
-const backgroundImageFile = 'home-page-background.jpg';
+const backgroundImageFile = 'subscribe-page-background.jpg';
 const backgroundImage = backgroundResizer(
   backgroundImageFile, window.innerWidth, window.innerHeight, window.devicePixelRatio
 );
