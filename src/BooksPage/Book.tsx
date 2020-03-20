@@ -22,12 +22,15 @@ export default function Book({
       <div className="book-cover">
         <img src={mysteryBook} alt="Livre mystère" className="book-cover-image" />
       </div>
-      <div className="publisher">
-        Offert par{' '}
-        <a href={publisherUrl} target="_blank" rel="noopener noreferrer">
-          {publisherName}
-        </a>
-      </div>
+      <a className="button blue" href="#subscribe">
+        <span aria-label="réveil" role="img">⏰</span>
+        {' '}
+        Me prévenir
+      </a>
+      <a className="button red" href={publisherUrl} target="_blank" rel="noopener noreferrer">
+        Offert par{' '} 
+        <strong>{publisherName}</strong>
+      </a>
     </div>
   );
 }

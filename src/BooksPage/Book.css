@@ -13,10 +13,19 @@
   max-width: 100%;
 }
 
-.Book .publisher {
-  background: #a50000;
-  font-size: 0.9rem;
-  margin: auto;
+.Book .button {
+  display: block;
+  font-size: 1rem;
+  margin: .5rem auto;
   max-width: 250px;
   padding: 10px;
+  text-decoration: none;
+}
+
+.Book .button.blue {
+  background: #369;
+}
+
+.Book .button.red {
+  background: #a50000;
 }
