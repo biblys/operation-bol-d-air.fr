@@ -3,6 +3,7 @@
   background-size: cover;
   color: white;
   position: relative;
+  height: calc(100vh - 58px);
 }
 
 .BooksPage .swiper-slide {

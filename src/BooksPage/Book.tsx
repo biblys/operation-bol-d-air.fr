@@ -1,4 +1,6 @@
 import React from 'react';
+//@ts-ignore
+import { Link } from 'react-scroll';
 
 import './Book.css';
 import mysteryBook from './mystery-book.jpg';
@@ -54,12 +56,14 @@ export default function Book({
           <strong>Télécharger</strong>
         </a>
       ) : (
-        <a className="button blue" href="#subscribe">
-          <span aria-label="réveil" role="img">
-            ⏰
-          </span>{' '}
-          Me prévenir
-        </a>
+        <Link to="subscribe" smooth={true} duration={250}>
+          <span className="button blue">
+            <span aria-label="réveil" role="img">
+              ⏰
+            </span>{' '}
+            Me prévenir
+          </span>
+        </Link>
       )}
       <a
         className="button red"

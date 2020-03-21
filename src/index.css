@@ -30,6 +30,7 @@ body {
 
 a {
   color: inherit;
+  cursor: pointer;
 }
 
 .footer a {

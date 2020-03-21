@@ -16,9 +16,17 @@
   width: 100vw;
 }
 
+.SubscribePage .footer {
+  font-size: 1.25rem;
+}
+
 @media (min-width: 768px) {
   .SubscribePage .mailjet-iframe {
     background: none;
     height: 426px;
+  }
+
+  .SubscribePage .footer {
+    font-size: 2rem;
   }
 }

@@ -61,7 +61,7 @@ export default function AboutPage() {
           adresse e-mail avec votre consentement éclairé et préalable.
         </p>
 
-        <p>Si vous choisissez de nous confier votre adresse e-mail :</p>
+        <p>Si vous choisissez de nous confier votre adresse e-mail&nbsp;:</p>
         <ul>
           <li>
             Celle-ci sera utilisée uniquement dans le cadre de l’opération
@@ -91,7 +91,7 @@ export default function AboutPage() {
           confinement peut participer. Il lui suffit pour cela de proposer un
           livre numérique gratuit sur ses canaux de vente habituels.
         </p>
-        <p>Quelques conditions :</p>
+        <p>Quelques conditions&nbsp;:</p>
         <ul>
           <li>
             L'opération de gratuité doit commencer le jour de la mise en avant
@@ -133,7 +133,7 @@ export default function AboutPage() {
         <h2 className="section-title">
           D'où viennent toutes ces belles images de chèvres&nbsp;?
         </h2>
-        <p>Le logo :</p>
+        <p>Le logo&nbsp;:</p>
         <ul>
           <li>
             Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
@@ -142,10 +142,10 @@ export default function AboutPage() {
             Icon made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
           </li>
         </ul>
-        <p>Les fonds d'écrans :</p>
+        <p>Les fonds d'écrans&nbsp;:</p>
         <ul>
           <li>
-            Page d'accueil :{' '}
+            Page d'accueil&nbsp;:{' '}
             <span>
               Photo by{' '}
               <a href="https://unsplash.com/@nandhukumarndd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
@@ -158,7 +158,7 @@ export default function AboutPage() {
             </span>
           </li>
           <li>
-            Page livres :{' '}
+            Page livres&nbsp;:{' '}
             <span>
               Photo by{' '}
               <a href="https://unsplash.com/@claudelrheault?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
@@ -171,7 +171,7 @@ export default function AboutPage() {
             </span>
           </li>
           <li>
-            Page newsletter :{' '}
+            Page newsletter&nbsp;:{' '}
             <span>
               Photo by{' '}
               <a href="https://unsplash.com/@mana5280?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
@@ -192,7 +192,7 @@ export default function AboutPage() {
           vite fait.
         </h2>
         <p>
-          Bien entendu, voici les <strong>mentions légales</strong> :
+          Bien entendu, voici les <strong>mentions légales</strong>&nbsp;:
         </p>
         <p>
           Le présent site est édité et hébergé par Clément Bourgoin,

@@ -1,11 +1,16 @@
 import React from 'react';
 import backgroundResizer from '../lib/backgroundResizer';
+//@ts-ignore
+import { Link } from 'react-scroll';
 
 import './HomePage.css';
 
 const backgroundImageFile = 'home-page-background.jpg';
 const backgroundImage = backgroundResizer(
-  backgroundImageFile, window.innerWidth, window.innerHeight, window.devicePixelRatio
+  backgroundImageFile,
+  window.innerWidth,
+  window.innerHeight,
+  window.devicePixelRatio
 );
 
 export default function HomePage() {
@@ -18,18 +23,23 @@ export default function HomePage() {
 
       <p className="catchline">
         <span className="catchline-highlight">
-          Un livre numérique<br/>
-          offert chaque jour<br />
-          pour ne pas devenir<br />
+          Un livre numérique
+          <br />
+          offert chaque jour
+          <br />
+          pour ne pas devenir
+          <br />
           complètement chèvre !
         </span>
       </p>
 
-      <footer className="footer">
-        <a href="#books">
+      <footer id="home-footer" className="footer">
+        <Link to="home-footer" smooth={true} duration={250}>
           Découvrir les livres{' '}
-          <span role="img" aria-label="down">👇</span>
-        </a>
+          <span role="img" aria-label="down">
+            👇
+          </span>
+        </Link>
       </footer>
     </div>
   );
