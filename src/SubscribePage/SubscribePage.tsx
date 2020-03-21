@@ -20,7 +20,6 @@ export default function SubscribePage() {
         src="https://app.mailjet.com/statics/widget/iframe/qWS/pVu" 
         scrolling="no"
         frameBorder="0" 
-        allowTransparency={true}
       >
         <p>Votre navigateur ne supporte pas l'élément iframe</p>
       </iframe>
