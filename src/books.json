@@ -27,5 +27,11 @@
     "date": "24 mars",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/"
+  },
+  {
+    "dayNum": 5,
+    "date": "25 mars",
+    "publisherName": "Les Règles de la nuit",
+    "publisherUrl": "https://lesreglesdelanuit.net/"
   }
 ]
