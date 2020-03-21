@@ -1,22 +1,12 @@
 import React from 'react';
 
-import backgroundResizer from '../lib/backgroundResizer';
-
 import biblysLogo from './propulse-par-biblys.png';
 
 import './AboutPage.css';
 
-const backgroundImageFile = 'About-page-background.jpg';
-const backgroundImage = backgroundResizer(
-  backgroundImageFile,
-  window.innerWidth,
-  window.innerHeight,
-  window.devicePixelRatio
-);
-
 export default function AboutPage() {
   return (
-    <div id="about" className="AboutPage" style={{ backgroundImage }}>
+    <div id="about" className="AboutPage">
       <h1 className="page-title">À propos</h1>
       <div className="text">
         <h2 className="section-title">Bol d'air, c'est quoi&nbsp;?</h2>
