@@ -30,6 +30,11 @@
   margin: 0.25rem;
 }
 
+.AboutPage .biblys-logo {
+  display: block;
+  margin: 50px auto;
+}
+
 @media (min-width: 768px) {
   .AboutPage .text {
     width: 500px;
