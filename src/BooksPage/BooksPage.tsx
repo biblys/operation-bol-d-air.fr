@@ -17,9 +17,11 @@ const backgroundImage = backgroundResizer(
   window.devicePixelRatio
 );
 
+const initialSlide = books.findIndex(book => book.current);
+
 export default function BooksPage() {
   const params = {
-    initialSlide: 1,
+    initialSlide,
     slidesPerView: 'auto',
     spaceBetween: 30,
     centeredSlides: true,

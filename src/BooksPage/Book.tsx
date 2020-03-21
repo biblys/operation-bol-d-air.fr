@@ -13,6 +13,7 @@ type BookProps = {
   altText?: string;
   paperEan?: string;
   downloadLink?: string;
+  current?: boolean;
 };
 
 export default function Book({
