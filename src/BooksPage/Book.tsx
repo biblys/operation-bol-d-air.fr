@@ -6,7 +6,6 @@ import './Book.css';
 import mysteryBook from './mystery-book.jpg';
 
 type BookProps = {
-  dayNum: number;
   date: string;
   publisherName: string;
   publisherUrl: string;

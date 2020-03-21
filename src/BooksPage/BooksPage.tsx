@@ -11,11 +11,15 @@ import books from '../books.json';
 
 const backgroundImageFile = 'books-page-background.jpg';
 const backgroundImage = backgroundResizer(
-  backgroundImageFile, window.innerWidth, window.innerHeight, window.devicePixelRatio
+  backgroundImageFile,
+  window.innerWidth,
+  window.innerHeight,
+  window.devicePixelRatio
 );
 
 export default function BooksPage() {
   const params = {
+    initialSlide: 1,
     slidesPerView: 'auto',
     spaceBetween: 30,
     centeredSlides: true,
@@ -25,7 +29,7 @@ export default function BooksPage() {
     },
     keyboard: {
       enabled: true,
-      onlyInViewport: false,
+      onlyInViewport: false
     },
     breakpoints: {
       500: {
@@ -38,7 +42,11 @@ export default function BooksPage() {
     <div id="books" className="BooksPage page" style={{ backgroundImage }}>
       <div className="books">
         <Swiper {...params}>
-          {books.map(book => <div key={book.dayNum}><Book {...book} /></div>)}
+          {books.map(book => (
+            <div key={book.date}>
+              <Book {...book} />
+            </div>
+          ))}
         </Swiper>
       </div>
     </div>

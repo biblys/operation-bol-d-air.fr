@@ -1,6 +1,5 @@
 [
   {
-    "dayNum": 1,
     "date": "21 mars",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
@@ -10,7 +9,6 @@
     "downloadLink": "https://www.belial.fr/jean-baret/vie-tm"
   },
   {
-    "dayNum": 2,
     "date": "22 mars",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
@@ -20,13 +18,11 @@
     "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique"
   },
   {
-    "dayNum": 3,
     "date": "23 mars",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/"
   },
   {
-    "dayNum": 4,
     "date": "24 mars",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/"
