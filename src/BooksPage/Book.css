@@ -1,5 +1,6 @@
+
 .Book .date {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, .5);
 }
 
 .Book .book-cover {
@@ -18,14 +19,14 @@
 .Book .button {
   display: block;
   font-size: 1rem;
-  margin: 0.5rem auto;
+  margin: .5rem auto;
   max-width: 250px;
   padding: 10px;
   text-decoration: none;
 }
 
 .Book .button.green {
-  background: #3a6;
+  background: #3A6;
 }
 
 .Book .button.blue {
@@ -34,5 +35,4 @@
 
 .Book .button.red {
   background: #a50000;
-  font-size: 0.9rem;
 }
