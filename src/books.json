@@ -15,13 +15,17 @@
     "altText": "Les Soldats de la mer de Yves & Ada Rémy",
     "coverImageUrl": "https://cdn.biblys.cloud/book/57/41957.jpg?w=300",
     "paperEan": "9791091146036",
-    "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique",
-    "current": true
+    "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique"
   },
   {
     "date": "23 mars",
     "publisherName": "Velvet",
-    "publisherUrl": "https://www.editionsvelvet.com/"
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Là où les patients m'emmènent de Georges LEWKOWICZ",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/79/66779.jpg?w=300",
+    "paperEan": "9782490619016",
+    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook",
+    "current": true
   },
   {
     "date": "24 mars",
