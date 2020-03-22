@@ -16,7 +16,7 @@
 .HomePage .catchline {
   background: #a50000;
   left: 50%;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   padding: 7px 0 12px;
   position: absolute;
   top: 50%;
@@ -32,10 +32,15 @@
   .HomePage .page-subtitle {
     font-size: 1.75rem;
   }
+
+  .HomePage .catchline {
+    font-size: 2rem;
+    width: 430px;
+  }
 }
 
 @media (min-aspect-ratio: 1/1) {
   .HomePage .header {
     width: 50%;
-  } 
+  }
 }

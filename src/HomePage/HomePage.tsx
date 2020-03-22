@@ -23,13 +23,9 @@ export default function HomePage() {
 
       <p className="catchline">
         <span className="catchline-highlight">
-          Un livre numérique
+          Un ebook gratuit chaque jour
           <br />
-          offert chaque jour
-          <br />
-          pour ne pas devenir
-          <br />
-          complètement chèvre !
+          pour ne pas devenir chèvre !
         </span>
       </p>
 
