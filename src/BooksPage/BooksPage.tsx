@@ -41,7 +41,11 @@ export default function BooksPage() {
   };
 
   return (
-    <div id="books" className="BooksPage page" style={{ backgroundImage }}>
+    <div
+      id="books"
+      className="BooksPage page with-background-image"
+      style={{ backgroundImage }}
+    >
       <div className="books">
         <Swiper {...params}>
           {books.map(book => (

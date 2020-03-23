@@ -15,7 +15,11 @@ const backgroundImage = backgroundResizer(
 
 export default function HomePage() {
   return (
-    <div id="home" className="HomePage page" style={{ backgroundImage }}>
+    <div
+      id="home"
+      className="HomePage page with-background-image"
+      style={{ backgroundImage }}
+    >
       <header className="header">
         <h1 className="page-title">Opération Bol d'air</h1>
         <p className="page-subtitle">- spécial confinement -</p>

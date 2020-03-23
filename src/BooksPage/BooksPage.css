@@ -1,6 +1,4 @@
 .BooksPage {
-  background-position: center center;
-  background-size: cover;
   color: white;
   position: relative;
   height: calc(100vh - 58px);
