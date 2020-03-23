@@ -24,12 +24,21 @@
     "altText": "Là où les patients m'emmènent de Georges LEWKOWICZ",
     "coverImageUrl": "https://cdn.biblys.cloud/book/79/66779.jpg?w=300",
     "paperEan": "9782490619016",
-    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook",
-    "current": true
+    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook"
   },
   {
     "date": "24 mars",
     "publisherName": "Scylla",
-    "publisherUrl": "https://editions.scylla.fr/"
+    "publisherUrl": "https://editions.scylla.fr/",
+    "altText": "Il faudrait pour grandir oublier la frontière de Sébastien JUILLARD",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/48246.jpg?w=300",
+    "paperEan": "9782954930305",
+    "downloadLink": "https://editions.scylla.fr/a/sebastien-juillard/il-faudrait-pour-grandir-oublier-la-frontiere_numerique",
+    "current": true
+  },
+  {
+    "date": "25 mars",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://wwww.belial.fr/"
   }
 ]
