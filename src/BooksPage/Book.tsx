@@ -14,6 +14,7 @@ type BookProps = {
   paperEan?: string;
   downloadLink?: string;
   current?: boolean;
+  ended?: boolean;
 };
 
 export default function Book({
@@ -22,7 +23,8 @@ export default function Book({
   publisherUrl,
   coverImageUrl,
   altText,
-  downloadLink
+  downloadLink,
+  ended
 }: BookProps) {
   const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=${date.replace(
     ' ',
@@ -43,7 +45,9 @@ export default function Book({
           />
         )}
       </div>
-      {downloadLink ? (
+      {ended ? (
+        ''
+      ) : downloadLink ? (
         <a
           className="button green"
           href={downloadLinkWithTags}
