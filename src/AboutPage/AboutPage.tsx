@@ -89,7 +89,7 @@ export default function AboutPage() {
             au-delà.
           </li>
           <li>
-            Le jour de la mise en avant, l'édieur s'engage à faire la promotion
+            Le jour de la mise en avant, l'éditeur s'engage à faire la promotion
             de l'opération dans son ensemble en relayant notamment la page du
             mini-site consacrée à son livre.
           </li>
