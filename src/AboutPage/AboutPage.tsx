@@ -26,7 +26,7 @@ export default function AboutPage() {
         <p>
           Elle consiste pour ces éditeurs à offrir chaque jour que durera la
           période de confinement française un livre numérique gratuit, sans DRM,
-          à leur lecteurs.
+          à leurs lecteurs.
         </p>
         <p>
           L'opération existe via le présent site, une{' '}
@@ -45,7 +45,7 @@ export default function AboutPage() {
           Si c'est gratuit, c'est moi le produit&nbsp;?
         </h2>
         <p>
-          L’opération Bol d’air respecte votre privée, n’utilise aucun pisteur
+          L’opération Bol d’air respecte votre vie privée, n’utilise aucun pisteur
           de réseau social et autre traqueurs publicitaires, ne collecte aucune
           donnée à caractère personnelle sur son site, sauf éventuellement votre
           adresse e-mail avec votre consentement éclairé et préalable.
