@@ -46,7 +46,12 @@ export default function Book({
         )}
       </div>
       {ended ? (
-        ''
+        <span className="button grey">
+          Trop tard{' '}
+          <span role="img" aria-label="OMG">
+            😱
+          </span>
+        </span>
       ) : downloadLink ? (
         <a
           className="button green"
@@ -75,7 +80,8 @@ export default function Book({
         target="_blank"
         rel="noopener noreferrer"
       >
-        Offert par <strong>{publisherName}</strong>
+        {ended ? 'Vous a été offert par' : 'Offert par'}{' '}
+        <strong>{publisherName}</strong>
       </a>
     </div>
   );
