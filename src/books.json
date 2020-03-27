@@ -63,13 +63,16 @@
     "publisherUrl": "https://www.editions-actusf.fr/",
     "altText": "Théâtres de cendres de Karim BERROUKA",
     "coverImageUrl": "https://cdn.biblys.cloud/book/75/41475.jpg?w=300",
-    "downloadLink": "https://www.editions-actusf.fr/a/karim-berrouka/theatres-de-cendres",
-    "current": true
+    "downloadLink": "https://www.editions-actusf.fr/a/karim-berrouka/theatres-de-cendres"
   },
   {
     "date": "28 mars",
     "publisherName": "Velvet",
-    "publisherUrl": "https://www.editionsvelvet.com/"
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Et toi, t'en penses quoi ? de Ray Clid",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/81/64481.jpg?w=300",
+    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi",
+    "current": true
   },
   {
     "date": "30 mars",
