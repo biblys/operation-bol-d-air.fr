@@ -74,5 +74,15 @@
     "date": "30 mars",
     "publisherName": "Callidor",
     "publisherUrl": "https://www.editions-callidor.com/"
+  },
+  {
+    "date": "31 mars",
+    "publisherName": "Scylla",
+    "publisherUrl": "https://editions.scylla.fr/"
+  },
+  {
+    "date": "1er avril",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/"
   }
 ]
