@@ -73,13 +73,16 @@
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Et toi, t'en penses quoi ? de Ray Clid",
     "coverImageUrl": "https://cdn.biblys.cloud/book/81/64481.jpg?w=300",
-    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook",
-    "current": true
+    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook"
   },
   {
     "date": "30 mars",
     "publisherName": "Callidor",
-    "publisherUrl": "https://www.editions-callidor.com/"
+    "publisherUrl": "https://www.editions-callidor.com/",
+    "altText": "Le Loup des steppes de Harold Lamb",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
+    "current": true
   },
   {
     "date": "31 mars",
