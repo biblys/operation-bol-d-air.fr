@@ -81,13 +81,16 @@
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
     "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
-    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
-    "current": true
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique"
   },
   {
     "date": "31 mars",
     "publisherName": "Scylla",
-    "publisherUrl": "https://editions.scylla.fr/"
+    "publisherUrl": "https://editions.scylla.fr/",
+    "altText": "Bienvenue à Sturkeyville de Bob Leman",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
+    "current": true
   },
   {
     "date": "1er avril",
