@@ -91,12 +91,20 @@
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Bienvenue à Sturkeyville de Bob Leman",
     "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
-    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
-    "current": true
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique"
   },
   {
     "date": "1er avril",
     "publisherName": "Le Bélial'",
-    "publisherUrl": "https://www.belial.fr/"
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Poumon vert de Ian R. MacLeod",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
+    "current": true
+  },
+  {
+    "date": "2 avril",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr/"
   }
 ]
