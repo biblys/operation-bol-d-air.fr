@@ -83,7 +83,8 @@
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
     "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
-    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique"
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
+    "ended": true
   },
   {
     "date": "31 mars",
