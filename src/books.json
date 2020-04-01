@@ -106,5 +106,15 @@
     "date": "2 avril",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/"
+  },
+  {
+    "date": "3 avril",
+    "publisherName": "JCM",
+    "publisherUrl": ""
+  },
+  {
+    "date": "4 avril",
+    "publisherName": "1115",
+    "publisherUrl": "https://www.editions1115.com/"
   }
 ]
