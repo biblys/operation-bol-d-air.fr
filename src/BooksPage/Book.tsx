@@ -30,6 +30,7 @@ export default function Book({
     ' ',
     '-'
   )}`;
+  const publisherButtonText = ended ? 'Vous a été offert par' : 'Offert par';
 
   return (
     <div className="Book">
@@ -74,15 +75,20 @@ export default function Book({
           </span>
         </Link>
       )}
-      <a
-        className="button red"
-        href={publisherUrl}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        {ended ? 'Vous a été offert par' : 'Offert par'}{' '}
-        <strong>{publisherName}</strong>
-      </a>
+      {publisherUrl ? (
+        <a
+          className="button red"
+          href={publisherUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {publisherButtonText} <strong>{publisherName}</strong>
+        </a>
+      ) : (
+        <span className="button red">
+          {publisherButtonText} <strong>{publisherName}</strong>
+        </span>
+      )}
     </div>
   );
 }
