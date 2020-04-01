@@ -100,13 +100,16 @@
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Poumon vert de Ian R. MacLeod",
     "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
-    "current": true
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert"
   },
   {
     "date": "2 avril",
     "publisherName": "Dystopia",
-    "publisherUrl": "https://www.dystopia.fr/"
+    "publisherUrl": "https://www.dystopia.fr/",
+    "altText": "Cru de luvan",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/53446.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique",
+    "current": true
   },
   {
     "date": "3 avril",
