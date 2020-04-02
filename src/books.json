@@ -83,7 +83,8 @@
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
     "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
-    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique"
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
+    "ended": true
   },
   {
     "date": "31 mars",
@@ -91,7 +92,8 @@
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Bienvenue à Sturkeyville de Bob Leman",
     "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
-    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique"
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
+    "ended": true
   },
   {
     "date": "1er avril",
@@ -108,12 +110,15 @@
     "altText": "Cru de luvan",
     "coverImageUrl": "https://cdn.biblys.cloud/book/46/53446.jpg?w=300",
     "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique",
-    "current": true
   },
   {
     "date": "3 avril",
     "publisherName": "JCM",
-    "publisherUrl": ""
+    "publisherUrl": "",
+    "altText": "Le Vaisseau ardent de Jean-Claude Marguerite",
+    "coverImageUrl": "https://media.biblys.cloud/book/06/71306.jpg?w=300",
+    "downloadLink": "http://touslire.biblys.fr/a/jean-claude-marguerite/le-vaisseau-ardent_numerique",
+    "current": true
   },
   {
     "date": "4 avril",
