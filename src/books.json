@@ -101,7 +101,8 @@
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Poumon vert de Ian R. MacLeod",
     "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert"
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
+    "ended": true
   },
   {
     "date": "2 avril",
@@ -123,6 +124,20 @@
   {
     "date": "4 avril",
     "publisherName": "1115",
-    "publisherUrl": "https://www.editions1115.com/"
+    "publisherUrl": "https://www.editions1115.com/",
+    "altText": "Sur Mars de Arnauld Pontier",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/23/70423.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique",
+    "current": true
+  },
+  {
+    "date": "6 avril",
+    "publisherName": "L'Arbre vengeur",
+    "publisherUrl": "https://www.arbre-vengeur.fr/"
+  },
+  {
+    "date": "7 avril",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/"
   }
 ]
