@@ -9,6 +9,7 @@ import mysteryBook from './mystery-book.jpg';
 
 type BookProps = {
   startDate: Moment;
+  endDate: Moment;
   publisherName: string;
   publisherUrl: string;
   coverImageUrl?: string;
@@ -16,21 +17,23 @@ type BookProps = {
   paperEan?: string;
   downloadLink?: string;
   current?: boolean;
-  ended?: boolean;
 };
 
 export default function Book({
   startDate,
+  endDate,
   publisherName,
   publisherUrl,
   coverImageUrl,
   altText,
-  downloadLink,
-  ended
+  downloadLink
 }: BookProps) {
   const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=bol-d-air-${startDate
     .format('YYYY-MM-DD')
     .replace(' ', '-')}`;
+
+  const ended = endDate.isBefore(undefined, 'day'); // If end date is before today
+  const started = startDate.isSameOrBefore();
   const publisherButtonText = ended ? 'Vous a été offert par' : 'Offert par';
 
   return (
@@ -54,7 +57,7 @@ export default function Book({
             😱
           </span>
         </span>
-      ) : downloadLink ? (
+      ) : downloadLink && started ? (
         <a
           className="button green"
           href={downloadLinkWithTags}

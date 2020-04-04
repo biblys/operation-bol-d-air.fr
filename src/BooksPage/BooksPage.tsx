@@ -17,7 +17,8 @@ moment.locale('fr');
 const books = bookList.map(book => {
   return {
     ...book,
-    startDate: moment(book.startDate)
+    startDate: moment(book.startDate),
+    endDate: moment(book.endDate)
   };
 });
 

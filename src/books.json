@@ -1,111 +1,112 @@
 [
   {
     "startDate": "2020-03-21",
+    "endDate": "2020-04-01",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Vie™ de Jean Baret",
     "coverImageUrl": "https://cdn.biblys.cloud/book/31/69431.jpg?version=2&w=300",
     "paperEan": "9782843449567",
-    "downloadLink": "https://www.belial.fr/jean-baret/vie-tm",
-    "ended": true
+    "downloadLink": "https://www.belial.fr/jean-baret/vie-tm"
   },
   {
     "startDate": "2020-03-22",
+    "endDate": "2020-04-01",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Les Soldats de la mer de Yves & Ada Rémy",
     "coverImageUrl": "https://cdn.biblys.cloud/book/57/41957.jpg?w=300",
     "paperEan": "9791091146036",
-    "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique",
-    "ended": true
+    "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique"
   },
   {
     "startDate": "2020-03-23",
+    "endDate": "2020-04-01",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Là où les patients m'emmènent de Georges LEWKOWICZ",
     "coverImageUrl": "https://cdn.biblys.cloud/book/79/66779.jpg?w=300",
     "paperEan": "9782490619016",
-    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook",
-    "ended": true
+    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook"
   },
   {
     "startDate": "2020-03-24",
+    "endDate": "2020-04-01",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Il faudrait pour grandir oublier la frontière de Sébastien JUILLARD",
     "coverImageUrl": "https://cdn.biblys.cloud/book/46/48246.jpg?w=300",
     "paperEan": "9782954930305",
-    "downloadLink": "https://editions.scylla.fr/a/sebastien-juillard/il-faudrait-pour-grandir-oublier-la-frontiere_numerique",
-    "ended": true
+    "downloadLink": "https://editions.scylla.fr/a/sebastien-juillard/il-faudrait-pour-grandir-oublier-la-frontiere_numerique"
   },
   {
     "startDate": "2020-03-25",
+    "endDate": "2020-04-01",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Comment parler à un alien ? de Frédéric LANDRAGIN",
     "coverImageUrl": "https://cdn.biblys.cloud/book/26/66326.jpg?w=300",
     "paperEan": "9782843449437",
-    "downloadLink": "https://www.belial.fr/frederic-landragin/comment-parler-a-un-alien",
-    "ended": true
+    "downloadLink": "https://www.belial.fr/frederic-landragin/comment-parler-a-un-alien"
   },
   {
     "startDate": "2020-03-26",
+    "endDate": "2020-04-01",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Ainsi naissent les fantômes de Lisa Tuttle",
     "coverImageUrl": "https://cdn.biblys.cloud/book/97/22297.jpg?w=300",
     "paperEan": "9782953595130",
-    "downloadLink": "https://www.dystopia.fr/a/lisa-tuttle/ainsi-naissent-les-fantomes_numerique",
-    "ended": true
+    "downloadLink": "https://www.dystopia.fr/a/lisa-tuttle/ainsi-naissent-les-fantomes_numerique"
   },
   {
     "startDate": "2020-03-27",
+    "endDate": "2020-04-01",
     "publisherName": "ActuSF",
     "publisherUrl": "https://www.editions-actusf.fr/",
     "altText": "Théâtres de cendres de Karim BERROUKA",
     "coverImageUrl": "https://cdn.biblys.cloud/book/75/41475.jpg?w=300",
-    "downloadLink": "https://www.editions-actusf.fr/a/karim-berrouka/theatres-de-cendres",
-    "ended": true
+    "downloadLink": "https://www.editions-actusf.fr/a/karim-berrouka/theatres-de-cendres"
   },
   {
     "startDate": "2020-03-28",
+    "endDate": "2020-04-01",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Et toi, t'en penses quoi ? de Ray Clid",
     "coverImageUrl": "https://cdn.biblys.cloud/book/81/64481.jpg?w=300",
-    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook",
-    "ended": true
+    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook"
   },
   {
     "startDate": "2020-03-30",
+    "endDate": "2020-04-01",
     "publisherName": "Callidor",
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
     "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
-    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
-    "ended": true
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique"
   },
   {
     "startDate": "2020-03-31",
+    "endDate": "2020-04-01",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Bienvenue à Sturkeyville de Bob Leman",
     "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
-    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
-    "ended": true
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique"
   },
   {
     "startDate": "2020-04-01",
+    "endDate": "2020-04-01",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Poumon vert de Ian R. MacLeod",
     "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
-    "ended": true
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert"
   },
   {
     "startDate": "2020-04-02",
+    "endDate": "2020-04-04",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Cru de luvan",
@@ -114,6 +115,7 @@
   },
   {
     "startDate": "2020-04-03",
+    "endDate": "2020-04-05",
     "publisherName": "JCM",
     "publisherUrl": "",
     "altText": "Le Vaisseau ardent de Jean-Claude Marguerite",
@@ -122,6 +124,7 @@
   },
   {
     "startDate": "2020-04-04",
+    "endDate": "2020-04-08",
     "publisherName": "1115",
     "publisherUrl": "https://www.editions1115.com/",
     "altText": "Sur Mars de Arnauld Pontier",
@@ -131,11 +134,13 @@
   },
   {
     "startDate": "2020-04-06",
+    "endDate": "2020-04-09",
     "publisherName": "L'Arbre vengeur",
     "publisherUrl": "https://www.arbre-vengeur.fr/"
   },
   {
     "startDate": "2020-04-07",
+    "endDate": "2020-04-09",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/"
   }
