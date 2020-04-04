@@ -30,7 +30,11 @@ const backgroundImage = backgroundResizer(
   window.devicePixelRatio
 );
 
-const initialSlide = books.findIndex(book => book.current);
+const todaySlide = books.findIndex(({ startDate }) =>
+  startDate.isSame(undefined, 'day')
+);
+const currentSlide = books.findIndex(book => book.current);
+const initialSlide = todaySlide !== -1 ? todaySlide : currentSlide;
 
 export default function BooksPage() {
   const params = {
