@@ -2,11 +2,13 @@ import React from 'react';
 //@ts-ignore
 import { Link } from 'react-scroll';
 
+import { Moment } from 'moment';
+
 import './Book.css';
 import mysteryBook from './mystery-book.jpg';
 
 type BookProps = {
-  date: string;
+  startDate: Moment;
   publisherName: string;
   publisherUrl: string;
   coverImageUrl?: string;
@@ -18,7 +20,7 @@ type BookProps = {
 };
 
 export default function Book({
-  date,
+  startDate,
   publisherName,
   publisherUrl,
   coverImageUrl,
@@ -26,15 +28,14 @@ export default function Book({
   downloadLink,
   ended
 }: BookProps) {
-  const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=${date.replace(
-    ' ',
-    '-'
-  )}`;
+  const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=bol-d-air-${startDate
+    .format('YYYY-MM-DD')
+    .replace(' ', '-')}`;
   const publisherButtonText = ended ? 'Vous a été offert par' : 'Offert par';
 
   return (
     <div className="Book">
-      <h1 className="date">{date}</h1>
+      <h1 className="date">{startDate.format('D MMMM')}</h1>
       <div className="book-cover">
         {coverImageUrl ? (
           <img src={coverImageUrl} alt={altText} className="book-cover-image" />

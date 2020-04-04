@@ -1,5 +1,8 @@
 import React from 'react';
 import Swiper from 'react-id-swiper';
+import moment from 'moment';
+import 'moment/locale/fr';
+
 import backgroundResizer from '../lib/backgroundResizer';
 
 import Book from './Book';
@@ -7,7 +10,16 @@ import Book from './Book';
 import 'swiper/css/swiper.css';
 import './BooksPage.css';
 
-import books from '../books.json';
+import bookList from '../books.json';
+
+moment.locale('fr');
+
+const books = bookList.map(book => {
+  return {
+    ...book,
+    startDate: moment(book.startDate)
+  };
+});
 
 const backgroundImageFile = 'books-page-background.jpg';
 const backgroundImage = backgroundResizer(
@@ -49,7 +61,7 @@ export default function BooksPage() {
       <div className="books">
         <Swiper {...params}>
           {books.map(book => (
-            <div key={book.date}>
+            <div key={book.startDate.format('YYYY-MM-DD')}>
               <Book {...book} />
             </div>
           ))}

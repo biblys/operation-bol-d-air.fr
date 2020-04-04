@@ -1,6 +1,5 @@
 [
   {
-    "date": "21 mars",
     "startDate": "2020-03-21",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
@@ -11,7 +10,6 @@
     "ended": true
   },
   {
-    "date": "22 mars",
     "startDate": "2020-03-22",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
@@ -22,7 +20,6 @@
     "ended": true
   },
   {
-    "date": "23 mars",
     "startDate": "2020-03-23",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
@@ -33,7 +30,6 @@
     "ended": true
   },
   {
-    "date": "24 mars",
     "startDate": "2020-03-24",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
@@ -44,7 +40,6 @@
     "ended": true
   },
   {
-    "date": "25 mars",
     "startDate": "2020-03-25",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
@@ -55,7 +50,6 @@
     "ended": true
   },
   {
-    "date": "26 mars",
     "startDate": "2020-03-26",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
@@ -66,7 +60,6 @@
     "ended": true
   },
   {
-    "date": "27 mars",
     "startDate": "2020-03-27",
     "publisherName": "ActuSF",
     "publisherUrl": "https://www.editions-actusf.fr/",
@@ -76,7 +69,6 @@
     "ended": true
   },
   {
-    "date": "28 mars",
     "startDate": "2020-03-28",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
@@ -86,7 +78,6 @@
     "ended": true
   },
   {
-    "date": "30 mars",
     "startDate": "2020-03-30",
     "publisherName": "Callidor",
     "publisherUrl": "https://www.editions-callidor.com/",
@@ -96,7 +87,6 @@
     "ended": true
   },
   {
-    "date": "31 mars",
     "startDate": "2020-03-31",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
@@ -106,7 +96,6 @@
     "ended": true
   },
   {
-    "date": "1er avril",
     "startDate": "2020-04-01",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
@@ -116,7 +105,6 @@
     "ended": true
   },
   {
-    "date": "2 avril",
     "startDate": "2020-04-02",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
@@ -125,7 +113,6 @@
     "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique"
   },
   {
-    "date": "3 avril",
     "startDate": "2020-04-03",
     "publisherName": "JCM",
     "publisherUrl": "",
@@ -134,7 +121,6 @@
     "downloadLink": "http://touslire.biblys.fr/a/jean-claude-marguerite/le-vaisseau-ardent_numerique"
   },
   {
-    "date": "4 avril",
     "startDate": "2020-04-04",
     "publisherName": "1115",
     "publisherUrl": "https://www.editions1115.com/",
@@ -144,13 +130,12 @@
     "current": true
   },
   {
-    "date": "6 avril",
     "startDate": "2020-04-06",
     "publisherName": "L'Arbre vengeur",
     "publisherUrl": "https://www.arbre-vengeur.fr/"
   },
   {
-    "date": "7 avril",
+    "startDate": "2020-04-07",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/"
   }
