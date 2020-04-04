@@ -1,6 +1,7 @@
 [
   {
     "date": "21 mars",
+    "startDate": "2020-03-21",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Vie™ de Jean Baret",
@@ -11,6 +12,7 @@
   },
   {
     "date": "22 mars",
+    "startDate": "2020-03-22",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Les Soldats de la mer de Yves & Ada Rémy",
@@ -21,6 +23,7 @@
   },
   {
     "date": "23 mars",
+    "startDate": "2020-03-23",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Là où les patients m'emmènent de Georges LEWKOWICZ",
@@ -31,6 +34,7 @@
   },
   {
     "date": "24 mars",
+    "startDate": "2020-03-24",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Il faudrait pour grandir oublier la frontière de Sébastien JUILLARD",
@@ -41,6 +45,7 @@
   },
   {
     "date": "25 mars",
+    "startDate": "2020-03-25",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Comment parler à un alien ? de Frédéric LANDRAGIN",
@@ -51,6 +56,7 @@
   },
   {
     "date": "26 mars",
+    "startDate": "2020-03-26",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Ainsi naissent les fantômes de Lisa Tuttle",
@@ -61,6 +67,7 @@
   },
   {
     "date": "27 mars",
+    "startDate": "2020-03-27",
     "publisherName": "ActuSF",
     "publisherUrl": "https://www.editions-actusf.fr/",
     "altText": "Théâtres de cendres de Karim BERROUKA",
@@ -70,6 +77,7 @@
   },
   {
     "date": "28 mars",
+    "startDate": "2020-03-28",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Et toi, t'en penses quoi ? de Ray Clid",
@@ -79,6 +87,7 @@
   },
   {
     "date": "30 mars",
+    "startDate": "2020-03-30",
     "publisherName": "Callidor",
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
@@ -88,6 +97,7 @@
   },
   {
     "date": "31 mars",
+    "startDate": "2020-03-31",
     "publisherName": "Scylla",
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Bienvenue à Sturkeyville de Bob Leman",
@@ -97,6 +107,7 @@
   },
   {
     "date": "1er avril",
+    "startDate": "2020-04-01",
     "publisherName": "Le Bélial'",
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Poumon vert de Ian R. MacLeod",
@@ -106,6 +117,7 @@
   },
   {
     "date": "2 avril",
+    "startDate": "2020-04-02",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Cru de luvan",
@@ -114,6 +126,7 @@
   },
   {
     "date": "3 avril",
+    "startDate": "2020-04-03",
     "publisherName": "JCM",
     "publisherUrl": "",
     "altText": "Le Vaisseau ardent de Jean-Claude Marguerite",
@@ -122,6 +135,7 @@
   },
   {
     "date": "4 avril",
+    "startDate": "2020-04-04",
     "publisherName": "1115",
     "publisherUrl": "https://www.editions1115.com/",
     "altText": "Sur Mars de Arnauld Pontier",
@@ -131,6 +145,7 @@
   },
   {
     "date": "6 avril",
+    "startDate": "2020-04-06",
     "publisherName": "L'Arbre vengeur",
     "publisherUrl": "https://www.arbre-vengeur.fr/"
   },
