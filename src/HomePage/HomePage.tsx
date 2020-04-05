@@ -34,7 +34,7 @@ export default function HomePage() {
       </p>
 
       <footer id="home-footer" className="footer">
-        <Link to="home-footer" smooth={true} duration={250}>
+        <Link to="home-footer" smooth={true} duration={250} role="button">
           Découvrir les livres{' '}
           <span role="img" aria-label="down">
             👇

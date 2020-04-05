@@ -37,7 +37,7 @@ export default function Book({
   const publisherButtonText = ended ? 'Vous a été offert par' : 'Offert par';
 
   return (
-    <div className="Book">
+    <div className="Book" aria-hidden={ended}>
       <h1 className="date">{startDate.format('D MMMM')}</h1>
       <div className="book-cover">
         {coverImageUrl ? (
@@ -63,6 +63,7 @@ export default function Book({
           href={downloadLinkWithTags}
           target="_blank"
           rel="noopener noreferrer"
+          aria-label={`Télécharger ${altText}`}
         >
           <span aria-label="cadeau" role="img">
             🎁
@@ -85,6 +86,7 @@ export default function Book({
           href={publisherUrl}
           target="_blank"
           rel="noopener noreferrer"
+          tabIndex={-1}
         >
           {publisherButtonText} <strong>{publisherName}</strong>
         </a>
