@@ -136,7 +136,10 @@
     "startDate": "2020-04-06",
     "endDate": "2020-04-09",
     "publisherName": "L'Arbre vengeur",
-    "publisherUrl": "https://www.arbre-vengeur.fr/"
+    "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "altText": "L'homme truqué de Maurice Renard",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/34/71334.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/maurice-renard/l-homme-truque_numerique"
   },
   {
     "startDate": "2020-04-07",
