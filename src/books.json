@@ -161,9 +161,12 @@
   },
   {
     "startDate": "2020-04-09",
-    "endDate": "2020-04-10",
+    "endDate": "2020-04-12",
     "publisherName": "L'Asiathèque",
-    "publisherUrl": "http://www.asiatheque.com"
+    "publisherUrl": "http://www.asiatheque.com",
+    "altText": "Je veux aller dans cette île de Lim CHUL-WOO",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/39/71339.jpg?w=300",
+    "downloadLink": "https://www.librairieduvoyageur.com/a/lim-chul-woo/je-veux-aller-dans-cette-ile_numerique"
   },
   {
     "startDate": "2020-04-10",
