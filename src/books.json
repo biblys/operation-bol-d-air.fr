@@ -164,5 +164,23 @@
     "endDate": "2020-04-10",
     "publisherName": "L'Asiathèque",
     "publisherUrl": "http://www.asiatheque.com"
+  },
+  {
+    "startDate": "2020-04-10",
+    "endDate": "2020-04-10",
+    "publisherName": "ActuSF",
+    "publisherUrl": "https://www.editions-actusf.fr"
+  },
+  {
+    "startDate": "2020-04-11",
+    "endDate": "2020-04-11",
+    "publisherName": "Géorama",
+    "publisherUrl": "http://www.georama.fr/"
+  },
+  {
+    "startDate": "2020-04-13",
+    "endDate": "2020-04-13",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr"
   }
 ]
