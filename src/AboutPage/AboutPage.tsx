@@ -11,8 +11,7 @@ export default function AboutPage() {
       <div className="text">
         <h2 className="section-title">Bol d'air, c'est quoi&nbsp;?</h2>
         <p>
-          C'est une opération organisée par un regroupement d'éditeurs
-          indépendants et propulsée par{' '}
+          C'est une opération propulsée par{' '}
           <a
             href="https://www.biblys.fr/"
             target="_blank"
@@ -20,13 +19,13 @@ export default function AboutPage() {
           >
             Biblys
           </a>
-          , l'outil e-commerce au service de la librairie et de l'édition
-          indépendante.
+          , mais ouvert à tous les éditeurs indépendants qui souhaitent
+          participer.
         </p>
         <p>
           Elle consiste pour ces éditeurs à offrir chaque jour que durera la
           période de confinement française un livre numérique gratuit, sans DRM,
-          à leurs lecteurs.
+          à leurs lecteurs, pour tenir jusqu'à la réouverture des librairies.
         </p>
         <p>
           L'opération existe via le présent site, une{' '}
@@ -45,10 +44,11 @@ export default function AboutPage() {
           Si c'est gratuit, c'est moi le produit&nbsp;?
         </h2>
         <p>
-          L’opération Bol d’air respecte votre vie privée, n’utilise aucun pisteur
-          de réseau social et autre traqueurs publicitaires, ne collecte aucune
-          donnée à caractère personnelle sur son site, sauf éventuellement votre
-          adresse e-mail avec votre consentement éclairé et préalable.
+          L’opération Bol d’air respecte votre vie privée, n’utilise aucun
+          pisteur de réseau social et autre traqueurs publicitaires, ne collecte
+          aucune donnée à caractère personnelle sur son site, sauf
+          éventuellement votre adresse e-mail avec votre consentement éclairé et
+          préalable.
         </p>
 
         <p>Si vous choisissez de nous confier votre adresse e-mail&nbsp;:</p>
@@ -75,49 +75,52 @@ export default function AboutPage() {
           .
         </p>
 
-        <h2 className="section-title">Quels éditeurs peuvent participer&nbsp;?</h2>
+        <h2 className="section-title">
+          Est-il obligatoire de s'inscrire pour télécharger les livres&nbsp;?
+        </h2>
         <p>
-          Tout éditeur indépendant inquiet pour ses lecteurs en situation de
-          confinement peut participer. Il lui suffit pour cela de proposer un
-          livre numérique gratuit sur ses canaux de vente habituels.
+          L'inscription sur le site de L’opération Bol d’air est totalement
+          facultative et vous permet uniquement d'être notifié par e-mail
+          lorsqu'un nouveau livre est disponible. Mais il est possible d'accéder
+          aux liens de téléchargementsdes livres librement sur le site sans
+          laisser votre adresse e-mail.
         </p>
-        <p>Quelques conditions&nbsp;:</p>
-        <ul>
-          <li>
-            L'opération de gratuité doit commencer le jour de la mise en avant
-            dans le cadre de l'opération Bol d'air mais peut se prolonger
-            au-delà.
-          </li>
-          <li>
-            Le jour de la mise en avant, l'éditeur s'engage à faire la promotion
-            de l'opération dans son ensemble en relayant notamment la page du
-            mini-site consacrée à son livre.
-          </li>
-          <li>
-            La gratuité du titre doit être répercutée sur toutes les plateformes
-            où le livre est en vente, en accord avec la loi{' '}
-            <a
-              href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024079563&categorieLien=id"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              PULN
-            </a>
-            .
-          </li>
-          <li>Le livre doit être proposé au téléchargement sans DRM.</li>
-          <li>Le livre ne doit pas être auto-édité.</li>
-        </ul>
         <p>
-          Pour savoir comment participer, contactez{' '}
-          <a
-            href="https://www.biblys.fr/contact/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Clément Bourgoin
+          L'inscription sur les sites des éditeurs est obligatoire, mais vous
+          pouvez utiliser le même compte{' '}
+          <a href="https://axys.me" target="_blank" rel="noopener noreferrer">
+            Axys
+          </a>{' '}
+          sur tous les sites sans avoir à vous réinscrire pour chaque nouveau
+          livre. Vous pourrez détruire ce compte à l'issue de l'opération (ou
+          avant si vous le souhaitez) en un clic : toutes les données
+          personnelles qui y sont associées seront alors supprimées de nos
+          serveurs.
+        </p>
+        <p>
+          Une fois le livre ajouté à votre bibliothèque, vous pourrez le
+          télécharger à volonté, dans tous les formats proposés, même après la
+          fin de l'opération de gratuité. Si de nouveaux formats sont ajoutés ou
+          si les fichiers sont mis à jour (par exemple pour corriger une
+          coquille), vous pourrez en profiter gratuitement. Si vous perdez les
+          fichiers, vous pourrez les télécharger à nouveau sans frais.
+        </p>
+        <p>
+          Enfin, l'utilisation d'un compte nous permet d'avoir une idée assez
+          précise du nombre de personnes ayant téléchargé un livre, en écartant
+          notamment les téléchargements automatique ou par des robots. C'est
+          indispensable pour mesurer le succès de l'opération et convaincre de
+          nouveaux éditeurs de nous rejoindre.
+        </p>
+
+        <h2 className="section-title">
+          Je suis éditeur, comment participer&nbsp;?
+        </h2>
+        <p>
+          Consultez la{' '}
+          <a href="https://community.inkdrop.app/note/d6f03670903bd697c1f87f37bb028bbe/note:BiLxUe76u">
+            FAQ Éditeurs
           </a>
-          .
         </p>
 
         <h2 className="section-title">
@@ -126,10 +129,27 @@ export default function AboutPage() {
         <p>Le logo&nbsp;:</p>
         <ul>
           <li>
-            Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+            Icon made by{' '}
+            <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
+              Freepik
+            </a>{' '}
+            from{' '}
+            <a href="https://www.flaticon.com/" title="Flaticon">
+              www.flaticon.com
+            </a>
           </li>
           <li>
-            Icon made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+            Icon made by{' '}
+            <a
+              href="https://www.flaticon.com/authors/prettycons"
+              title="prettycons"
+            >
+              prettycons
+            </a>{' '}
+            from{' '}
+            <a href="https://www.flaticon.com/" title="Flaticon">
+              www.flaticon.com
+            </a>
           </li>
         </ul>
         <p>Les fonds d'écrans&nbsp;:</p>
@@ -175,15 +195,7 @@ export default function AboutPage() {
           </li>
         </ul>
 
-        <h2 className="section-title">
-          J'imagine fort bien que c'est fait dans l'urgence, mais une petite
-          mention pour indiquer qui gère cet endroit ou on largue une adresse
-          mail, et/ou donner un moyen de contact serait chouette et vraiment
-          vite fait.
-        </h2>
-        <p>
-          Bien entendu, voici les <strong>mentions légales</strong>&nbsp;:
-        </p>
+        <h2 className="section-title">Mentions légales</h2>
         <p>
           Le présent site est édité et hébergé par Clément Bourgoin,
           auto-entrepreneur, immatriculé&nbsp;à l’Insee sous le numéro 504 299
@@ -193,10 +205,10 @@ export default function AboutPage() {
           ci-dessous.
         </p>
         <p>
-          L’éditeur du site met tout en œuvre pour
-          assurer l’exactitude et la mise à jour de l’ensemble des informations
-          fournies mais il ne peut garantir que ces informations sont complètes,
-          précises, exactes, exhaustives et dépourvues de toute erreur.
+          L’éditeur du site met tout en œuvre pour assurer l’exactitude et la
+          mise à jour de l’ensemble des informations fournies mais il ne peut
+          garantir que ces informations sont complètes, précises, exactes,
+          exhaustives et dépourvues de toute erreur.
         </p>
         <p>
           L’éditeur du site se réserve le droit de corriger ou de modifier, à
@@ -224,7 +236,7 @@ export default function AboutPage() {
         </h2>
         <p>
           <a
-            href="https://www.biblys.fr/contact/"
+            href="https://livres.operation-bol-d-air.fr/contact/"
             target="_blank"
             rel="noopener noreferrer"
           >
