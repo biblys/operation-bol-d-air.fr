@@ -172,7 +172,10 @@
     "startDate": "2020-04-10",
     "endDate": "2020-04-14",
     "publisherName": "Géorama",
-    "publisherUrl": "http://www.georama.fr/"
+    "publisherUrl": "http://www.georama.fr/",
+    "altText": "Garce d'étoile de Hervé BELLEC",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/45/71345.jpg?w=300",
+    "downloadLink": "https://www.librairieduvoyageur.com/a/herve-bellec/garce-d-etoile-sur-les-chemins-de-compostelle_numerique"
   },
   {
     "startDate": "2020-04-11",
