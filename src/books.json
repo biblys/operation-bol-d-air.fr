@@ -170,18 +170,12 @@
   },
   {
     "startDate": "2020-04-10",
-    "endDate": "2020-04-10",
-    "publisherName": "ActuSF",
-    "publisherUrl": "https://www.editions-actusf.fr"
-  },
-  {
-    "startDate": "2020-04-11",
-    "endDate": "2020-04-11",
+    "endDate": "2020-04-14",
     "publisherName": "Géorama",
     "publisherUrl": "http://www.georama.fr/"
   },
   {
-    "startDate": "2020-04-13",
+    "startDate": "2020-04-11",
     "endDate": "2020-04-13",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr"
