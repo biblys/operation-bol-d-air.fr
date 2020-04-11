@@ -181,14 +181,17 @@
     "startDate": "2020-04-11",
     "endDate": "2020-04-13",
     "publisherName": "Dystopia",
-    "publisherUrl": "https://www.dystopia.fr"
+    "publisherUrl": "https://www.dystopia.fr",
+    "altText": "Yama Loka Terminus de Henry, Muchielli et Perger",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/18/54718.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique"
   },
   {
     "startDate": "2020-04-13",
     "endDate": "2020-04-16",
     "publisherName": "At. de l'agneau",
     "publisherUrl": "https://atelierdelagneau.com/"
-  }
+  },
   {
     "startDate": "2020-04-14",
     "endDate": "2020-04-16",
