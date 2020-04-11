@@ -182,5 +182,17 @@
     "endDate": "2020-04-13",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr"
+  },
+  {
+    "startDate": "2020-04-13",
+    "endDate": "2020-04-16",
+    "publisherName": "At. de l'agneau",
+    "publisherUrl": "https://atelierdelagneau.com/"
+  }
+  {
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-16",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/"
   }
 ]
