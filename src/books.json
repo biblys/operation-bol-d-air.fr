@@ -191,7 +191,10 @@
     "startDate": "2020-04-13",
     "endDate": "2020-04-16",
     "publisherName": "At. de l'agneau",
-    "publisherUrl": "https://atelierdelagneau.com/"
+    "publisherUrl": "https://atelierdelagneau.com/",
+    "altText": "E.X.E.R.C.I.C.E.S de Khalid El Morabethi / Cyrille Roussat",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/71346.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/khalid-el-morabethi/exercices"
   },
   {
     "startDate": "2020-04-14",
