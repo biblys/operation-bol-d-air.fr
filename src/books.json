@@ -197,5 +197,17 @@
     "endDate": "2020-04-16",
     "publisherName": "Critic",
     "publisherUrl": "https://editions.critic.fr/"
+  },
+  {
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-17",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/"
+  },
+  {
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-20",
+    "publisherName": "Editions 1115",
+    "publisherUrl": "https://www.editions1115.com/"
   }
 ]
