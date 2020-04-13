@@ -200,7 +200,10 @@
     "startDate": "2020-04-14",
     "endDate": "2020-04-16",
     "publisherName": "Critic",
-    "publisherUrl": "https://editions.critic.fr/"
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "La Route de la Conquête de Lionel Davoust",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/47/71347.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/lionel-davoust/la-route-de-la-conquete_numerique"
   },
   {
     "startDate": "2020-04-15",
