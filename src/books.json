@@ -213,5 +213,23 @@
     "endDate": "2020-04-20",
     "publisherName": "Editions 1115",
     "publisherUrl": "https://www.editions1115.com/"
+  },
+  {
+    "startDate": "2020-04-17",
+    "endDate": "2020-04-17",
+    "publisherName": "?",
+    "publisherUrl": ""
+  },
+  {
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-24",
+    "publisherName": "Z4 Editions",
+    "publisherUrl": "https://z4editions.fr/"
+  },
+  {
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/"
   }
 ]
