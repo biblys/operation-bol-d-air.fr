@@ -209,7 +209,10 @@
     "startDate": "2020-04-15",
     "endDate": "2020-04-17",
     "publisherName": "Le Bélial'",
-    "publisherUrl": "https://www.belial.fr/"
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Issa Elohim de Laurent Kloetzer",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/71/63571.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/laurent-kloetzer/issa-elohim_numerique"
   },
   {
     "startDate": "2020-04-16",
