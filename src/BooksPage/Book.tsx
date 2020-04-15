@@ -40,7 +40,7 @@ export default function Book({
     <div className="Book" aria-hidden={ended}>
       <h1 className="date">{startDate.format('D MMMM')}</h1>
       <div className="book-cover">
-        {coverImageUrl ? (
+        {coverImageUrl && started ? (
           <img src={coverImageUrl} alt={altText} className="book-cover-image" />
         ) : (
           <img
