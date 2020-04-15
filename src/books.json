@@ -184,8 +184,7 @@
     "publisherUrl": "https://www.dystopia.fr",
     "altText": "Yama Loka Terminus de Henry, Muchielli et Perger",
     "coverImageUrl": "https://cdn.biblys.cloud/book/18/54718.jpg?w=300",
-    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique",
-    "current": true
+    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique"
   },
   {
     "startDate": "2020-04-13",
@@ -218,7 +217,11 @@
     "startDate": "2020-04-16",
     "endDate": "2020-04-20",
     "publisherName": "Editions 1115",
-    "publisherUrl": "https://www.editions1115.com/"
+    "publisherUrl": "https://www.editions1115.com/",
+    "altText": "Chronopages : morceaux choisis",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/49/71349.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/collectif/chronopages-morceaux-choisis",
+    "paperEan": "9791097100674"
   },
   {
     "startDate": "2020-04-17",
