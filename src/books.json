@@ -222,9 +222,9 @@
   },
   {
     "startDate": "2020-04-17",
-    "endDate": "2020-04-17",
-    "publisherName": "?",
-    "publisherUrl": ""
+    "endDate": "2020-04-23",
+    "publisherName": "Tous Lire",
+    "publisherUrl": "https://touslire.com/"
   },
   {
     "startDate": "2020-04-18",
@@ -237,5 +237,23 @@
     "endDate": "2020-04-22",
     "publisherName": "Velvet",
     "publisherUrl": "https://www.editionsvelvet.com/"
+  },
+  {
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-22",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/"
+  },
+  {
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-28",
+    "publisherName": "Kilowatt",
+    "publisherUrl": "http://www.kilowatt.fr/"
+  },
+  {
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-25",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr"
   }
 ]
