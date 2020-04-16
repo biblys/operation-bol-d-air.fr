@@ -227,7 +227,11 @@
     "startDate": "2020-04-17",
     "endDate": "2020-04-23",
     "publisherName": "Tous Lire",
-    "publisherUrl": "https://touslire.com/"
+    "publisherUrl": "https://touslire.com/",
+    "altText": "Les Contes de ma mère l'Oye, en français d'aujourd'hui",
+    "coverImageUrl": "https://media.biblys.fr/book/51/71351.jpg?w=300",
+    "downloadLink": "https://touslire.biblys.fr/a/charles-perrault/les-contes-de-ma-mere-l-oye-en-francais-d-aujourd-hui",
+    "paperEan": ""
   },
   {
     "startDate": "2020-04-18",
