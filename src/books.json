@@ -258,5 +258,11 @@
     "endDate": "2020-04-25",
     "publisherName": "Dystopia",
     "publisherUrl": "https://www.dystopia.fr"
+  },
+  {
+    "startDate": "2020-04-24",
+    "endDate": "2020-04-30",
+    "publisherName": "À plus d'un titre",
+    "publisherUrl": "https://www.aplusduntitre.org/"
   }
 ]
