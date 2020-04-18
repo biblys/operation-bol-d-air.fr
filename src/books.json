@@ -129,8 +129,7 @@
     "publisherUrl": "https://www.editions1115.com/",
     "altText": "Sur Mars de Arnauld Pontier",
     "coverImageUrl": "https://cdn.biblys.cloud/book/23/70423.jpg?w=300",
-    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique",
-    "current": true
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique"
   },
   {
     "startDate": "2020-04-06",
@@ -231,14 +230,18 @@
     "altText": "Les Contes de ma mère l'Oye, en français d'aujourd'hui",
     "coverImageUrl": "https://media.biblys.fr/book/51/71351.jpg?w=300",
     "downloadLink": "https://touslire.biblys.fr/a/charles-perrault/les-contes-de-ma-mere-l-oye-en-francais-d-aujourd-hui",
-    "paperEan": "",
-    "current": true
+    "paperEan": ""
   },
   {
-    "startDate": "2020-04-19",
+    "startDate": "2020-04-18",
     "endDate": "2020-04-24",
     "publisherName": "Z4 Editions",
-    "publisherUrl": "https://z4editions.fr/"
+    "publisherUrl": "https://z4editions.fr/",
+    "altText": "Ce n'est rien de Daniel Ziv",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/52/71352.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/daniel-ziv/ce-n-est-rien",
+    "paperEan": "9782490595587",
+    "current": true
   },
   {
     "startDate": "2020-04-20",
