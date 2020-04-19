@@ -240,14 +240,17 @@
     "altText": "Ce n'est rien de Daniel Ziv",
     "coverImageUrl": "https://cdn.biblys.cloud/book/52/71352.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/daniel-ziv/ce-n-est-rien",
-    "paperEan": "9782490595587",
-    "current": true
+    "paperEan": "9782490595587"
   },
   {
     "startDate": "2020-04-20",
     "endDate": "2020-04-22",
     "publisherName": "Velvet",
-    "publisherUrl": "https://www.editionsvelvet.com/"
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Le joueur et sa passion, sous la direction de Michel Steiner",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/47/69647.jpg?version=2&w=300",
+    "downloadLink": "https://www.editionsvelvet.com/a/michel-steiner/le-joueur-et-sa-passion-ebook",
+    "paperEan": "9782490619030"
   },
   {
     "startDate": "2020-04-21",
