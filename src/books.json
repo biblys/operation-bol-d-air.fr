@@ -287,5 +287,11 @@
     "endDate": "2020-04-30",
     "publisherName": "Tituli",
     "publisherUrl": "https://www.tituli.fr/"
+  },
+  {
+    "startDate": "2020-04-27",
+    "endDate": "2020-04-30",
+    "publisherName": "L'Arbre vengeur",
+    "publisherUrl": "https://www.arbre-vengeur.fr/"
   }
 ]
