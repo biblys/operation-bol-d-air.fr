@@ -256,7 +256,11 @@
     "startDate": "2020-04-21",
     "endDate": "2020-04-22",
     "publisherName": "Critic",
-    "publisherUrl": "https://editions.critic.fr/"
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "Dominium Mundi de François BARANGER",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/59/71359.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/francois-baranger/dominium-mundi_numerique",
+    "paperEan": "9782375790304"
   },
   {
     "startDate": "2020-04-22",
