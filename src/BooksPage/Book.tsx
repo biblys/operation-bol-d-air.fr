@@ -1,25 +1,12 @@
 import React from 'react';
 //@ts-ignore
 import { Link } from 'react-scroll';
-
-import { Moment } from 'moment';
+import { Book } from './Book.type';
 
 import './Book.css';
 import mysteryBook from './mystery-book.jpg';
 
-type BookProps = {
-  startDate: Moment;
-  endDate: Moment;
-  publisherName: string;
-  publisherUrl: string;
-  coverImageUrl?: string;
-  altText?: string;
-  paperEan?: string;
-  downloadLink?: string;
-  current?: boolean;
-};
-
-export default function Book({
+export default function({
   startDate,
   endDate,
   publisherName,
@@ -27,7 +14,7 @@ export default function Book({
   coverImageUrl,
   altText,
   downloadLink
-}: BookProps) {
+}: Book) {
   const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=bol-d-air-${startDate
     .format('YYYY-MM-DD')
     .replace(' ', '-')}`;

@@ -4,8 +4,9 @@ import moment from 'moment';
 import 'moment/locale/fr';
 
 import backgroundResizer from '../lib/backgroundResizer';
+import { Book } from './Book.type';
 
-import Book from './Book';
+import BookComponent from './Book';
 
 import 'swiper/css/swiper.css';
 import './BooksPage.css';
@@ -33,7 +34,7 @@ const backgroundImage = backgroundResizer(
 const todaySlide = books.findIndex(({ startDate }) =>
   startDate.isSame(undefined, 'day')
 );
-const currentSlide = books.findIndex(book => book.current);
+const currentSlide = books.findIndex((book: Book) => book.current);
 const initialSlide = todaySlide !== -1 ? todaySlide : currentSlide;
 
 export default function BooksPage() {
@@ -67,7 +68,7 @@ export default function BooksPage() {
         <Swiper {...params}>
           {books.map(book => (
             <div key={book.startDate.format('YYYY-MM-DD')}>
-              <Book {...book} />
+              <BookComponent {...book} />
             </div>
           ))}
         </Swiper>
