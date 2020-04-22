@@ -266,7 +266,11 @@
     "startDate": "2020-04-22",
     "endDate": "2020-04-28",
     "publisherName": "Kilowatt",
-    "publisherUrl": "http://www.kilowatt.fr/"
+    "publisherUrl": "http://www.kilowatt.fr/",
+    "altText": "Dominium Mundi de François BARANGER",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/62/71362.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/collectif/un-crocodile-sur-mon-toit",
+    "paperEan": "9782375790304"
   },
   {
     "startDate": "2020-04-23",
