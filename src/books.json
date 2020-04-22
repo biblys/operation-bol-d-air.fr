@@ -301,5 +301,23 @@
     "endDate": "2020-04-30",
     "publisherName": "L'Arbre vengeur",
     "publisherUrl": "https://www.arbre-vengeur.fr/"
+  },
+  {
+    "startDate": "2020-04-28",
+    "endDate": "2020-04-30",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/"
+  },
+  {
+    "startDate": "2020-04-29",
+    "endDate": "2020-05-05",
+    "publisherName": "Chèvre-feuille étoilée",
+    "publisherUrl": "https://www.editionsfemmeschevrefeuille.fr/"
+  },
+  {
+    "startDate": "2020-04-30",
+    "endDate": "2020-05-05",
+    "publisherName": "Canoë",
+    "publisherUrl": "https://www.editionsducanoe.fr/"
   }
 ]
