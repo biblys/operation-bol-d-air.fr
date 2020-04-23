@@ -286,7 +286,11 @@
     "startDate": "2020-04-24",
     "endDate": "2020-04-30",
     "publisherName": "À plus d'un titre",
-    "publisherUrl": "https://www.aplusduntitre.org/"
+    "publisherUrl": "https://www.aplusduntitre.org/",
+    "altText": "L'évènement Gilets jaunes de .../temps critiques",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/83/68783.jpg?version=6?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/temps-critiques/l-evenement-gilets-jaunes_numerique",
+    "paperEan": "9782917486610"
   },
   {
     "startDate": "2020-04-25",
