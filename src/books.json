@@ -296,7 +296,11 @@
     "startDate": "2020-04-25",
     "endDate": "2020-04-27",
     "publisherName": "Le Bélial'",
-    "publisherUrl": "https://www.belial.fr/"
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Les Ferrailleurs du cosmos de Eric Brown",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/02/64802.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/eric-brown/les-ferrailleurs-du-cosmos_numerique",
+    "paperEan": "9782843449321"
   },
   {
     "startDate": "2020-04-26",
