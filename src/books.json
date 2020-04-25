@@ -306,7 +306,11 @@
     "startDate": "2020-04-26",
     "endDate": "2020-04-30",
     "publisherName": "Tituli",
-    "publisherUrl": "https://www.tituli.fr/"
+    "publisherUrl": "https://www.tituli.fr/",
+    "altText": "L'absolu et un café de France BILLAND",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/73/70673.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/france-billand/l-absolu-et-un-cafe_numerique",
+    "paperEan": "9782373651393"
   },
   {
     "startDate": "2020-04-27",
