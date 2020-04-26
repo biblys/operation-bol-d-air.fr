@@ -316,7 +316,11 @@
     "startDate": "2020-04-27",
     "endDate": "2020-04-30",
     "publisherName": "L'Arbre vengeur",
-    "publisherUrl": "https://www.arbre-vengeur.fr/"
+    "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "altText": "L'homme que les arbres aimaient de Algernon BLACKWOOD",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/78/71378.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/algernon-blackwood/l-homme-que-les-arbres-aimaient_numerique",
+    "paperEan": "9791091504584"
   },
   {
     "startDate": "2020-04-28",
