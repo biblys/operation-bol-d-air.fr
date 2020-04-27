@@ -326,7 +326,11 @@
     "startDate": "2020-04-28",
     "endDate": "2020-04-30",
     "publisherName": "Critic",
-    "publisherUrl": "https://editions.critic.fr/"
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "L'Empire du léopard de Emmanuel CHASTELLIÈRE",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/80/71380.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/emmanuel-chastelliere/l-empire-du-leopard_numerique",
+    "paperEan": "9782375790458"
   },
   {
     "startDate": "2020-04-29",
