@@ -336,7 +336,11 @@
     "startDate": "2020-04-29",
     "endDate": "2020-05-05",
     "publisherName": "Chèvre-feuille étoilée",
-    "publisherUrl": "https://www.editionsfemmeschevrefeuille.fr/"
+    "publisherUrl": "https://www.editionsfemmeschevrefeuille.fr/",
+    "altText": "Etoiles d'encre N°65 Quelles frontières ?",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/81/71381.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/collectif/etoiles-d-encre-n65-quelles-frontieres",
+    "paperEan": "9782367951034"
   },
   {
     "startDate": "2020-04-30",
