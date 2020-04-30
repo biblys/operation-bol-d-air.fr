@@ -21,11 +21,9 @@ export default function({
 
   const ended = endDate.isBefore(undefined, 'day'); // If end date is before today
   const started = startDate.isSameOrBefore();
-  const publisherButtonText = ended ? 'Vous a été offert par' : 'Offert par';
 
   return (
     <div className="Book" aria-hidden={ended}>
-      <h1 className="date">{startDate.format('D MMMM')}</h1>
       <div className="book-cover">
         {coverImageUrl && started ? (
           <img src={coverImageUrl} alt={altText} className="book-cover-image" />
@@ -66,21 +64,6 @@ export default function({
             Me prévenir
           </span>
         </Link>
-      )}
-      {publisherUrl ? (
-        <a
-          className="button red"
-          href={publisherUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          tabIndex={-1}
-        >
-          {publisherButtonText} <strong>{publisherName}</strong>
-        </a>
-      ) : (
-        <span className="button red">
-          {publisherButtonText} <strong>{publisherName}</strong>
-        </span>
       )}
     </div>
   );

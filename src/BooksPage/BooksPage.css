@@ -1,9 +1,15 @@
 .BooksPage {
   color: white;
+  height: auto;
   position: relative;
-  height: calc(100vh - 58px);
 }
 
-.BooksPage .swiper-slide {
-  width: 70%;
+.BooksPage .books {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.BooksPage .Book {
+  margin: 25px;
 }
