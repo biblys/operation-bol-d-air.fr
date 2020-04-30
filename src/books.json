@@ -75,7 +75,8 @@
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Et toi, t'en penses quoi ? de Ray Clid",
     "coverImageUrl": "https://cdn.biblys.cloud/book/81/64481.jpg?w=300",
-    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook"
+    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook",
+    "paperEan": "9782490619009"
   },
   {
     "startDate": "2020-03-30",
@@ -84,7 +85,8 @@
     "publisherUrl": "https://www.editions-callidor.com/",
     "altText": "Le Loup des steppes de Harold Lamb",
     "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
-    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique"
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
+    "paperEan": "9782953944730"
   },
   {
     "startDate": "2020-03-31",
@@ -93,7 +95,8 @@
     "publisherUrl": "https://editions.scylla.fr/",
     "altText": "Bienvenue à Sturkeyville de Bob Leman",
     "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
-    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique"
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
+    "paperEan": "9782956009504"
   },
   {
     "startDate": "2020-04-01",
@@ -102,7 +105,8 @@
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Poumon vert de Ian R. MacLeod",
     "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert"
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
+    "paperEan": "9782843449185"
   },
   {
     "startDate": "2020-04-02",
@@ -111,7 +115,8 @@
     "publisherUrl": "https://www.dystopia.fr/",
     "altText": "Cru de luvan",
     "coverImageUrl": "https://cdn.biblys.cloud/book/46/53446.jpg?w=300",
-    "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique"
+    "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique",
+    "paperEan": "9791091146050"
   },
   {
     "startDate": "2020-04-03",
@@ -120,7 +125,8 @@
     "publisherUrl": "",
     "altText": "Le Vaisseau ardent de Jean-Claude Marguerite",
     "coverImageUrl": "https://cdn.biblys.cloud/book/06/71306.jpg?w=300",
-    "downloadLink": "http://touslire.biblys.fr/a/jean-claude-marguerite/le-vaisseau-ardent_numerique"
+    "downloadLink": "http://touslire.biblys.fr/a/jean-claude-marguerite/le-vaisseau-ardent_numerique",
+    "paperEan": "9782070447213"
   },
   {
     "startDate": "2020-04-04",
