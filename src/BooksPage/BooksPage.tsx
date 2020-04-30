@@ -36,6 +36,7 @@ export default function BooksPage() {
       className="BooksPage page with-background-image"
       style={{ backgroundImage }}
     >
+      <p>Voici les 46 livres qui vous ont été offerts par les éditeurs, entre le 21 mars et le 10 mai, pour vous soutenir pendant la période de confinement.</p>
       <div className="books">
         {books.map(book => (
           <div key={book.startDate.format('YYYY-MM-DD')}>
