@@ -1,5 +1,4 @@
 import React from 'react';
-import Swiper from 'react-id-swiper';
 import moment from 'moment';
 import 'moment/locale/fr';
 

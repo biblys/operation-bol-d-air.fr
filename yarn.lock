@@ -8373,13 +8373,6 @@ react-error-overlay@^6.0.6:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.6.tgz#ac4d9dc4c1b5c536c2c312bf66aa2b09bfa384e2"
   integrity sha512-Yzpno3enVzSrSCnnljmr4b/2KUQSMZaPuqmS26t9k4nW7uwJk6STWmH9heNjPuvqUTO3jOSPkHoKgO4+Dw7uIw==
 
-react-id-swiper@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-id-swiper/-/react-id-swiper-3.0.0.tgz#110cc0d5a84c5f6e2c6247ca71f12f5783ebd020"
-  integrity sha512-80iJPfxPeuLpMxvAYIS9uw38MLngRoZ51RmL5ya5y/+Qw/H/ZxMBwIGfBRKU4REl+tJxARMHvESbwQUEdJgzqA==
-  dependencies:
-    object-assign "^4.1.1"
-
 react-is@^16.12.0:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
