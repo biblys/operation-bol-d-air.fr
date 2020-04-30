@@ -371,7 +371,10 @@
     "startDate": "2020-05-01",
     "endDate": "2020-05-03",
     "publisherName": "ActuSF",
-    "publisherUrl": "https://www.editions-actusf.fr/"
+    "publisherUrl": "https://www.editions-actusf.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/89/66089.jpg?w=300",
+    "downloadLink": "https://www.editions-actusf.fr/a/jean-marc-ligny/chroniques-integrale",
+    "paperEan": "9782917689233"
   },
   {
     "startDate": "2020-05-02",
