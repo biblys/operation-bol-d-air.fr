@@ -1,6 +1,4 @@
 import React from 'react';
-//@ts-ignore
-import { Link } from 'react-scroll';
 import { Book } from './Book.type';
 
 import './Book.css';
@@ -9,21 +7,15 @@ import mysteryBook from './mystery-book.jpg';
 export default function({
   startDate,
   endDate,
-  publisherName,
-  publisherUrl,
   coverImageUrl,
   altText,
-  downloadLink
+  paperEan
 }: Book) {
-  const downloadLinkWithTags = `${downloadLink}?utm_source=operation-bol-d-air&utm_medium=clic&utm_campaign=bol-d-air-${startDate
-    .format('YYYY-MM-DD')
-    .replace(' ', '-')}`;
-
-  const ended = endDate.isBefore(undefined, 'day'); // If end date is before today
+  const buyLink = `https://www.placedeslibraires.fr/livre/${paperEan}/`;
   const started = startDate.isSameOrBefore();
 
   return (
-    <div className="Book" aria-hidden={ended}>
+    <div className="Book">
       <div className="book-cover">
         {coverImageUrl && started ? (
           <img src={coverImageUrl} alt={altText} className="book-cover-image" />
@@ -35,36 +27,20 @@ export default function({
           />
         )}
       </div>
-      {ended ? (
-        <span className="button grey">
-          Trop tard{' '}
-          <span role="img" aria-label="OMG">
-            😱
-          </span>
-        </span>
-      ) : downloadLink && started ? (
+      {paperEan ? (
         <a
-          className="button green"
-          href={downloadLinkWithTags}
+          className="button blue"
+          href={buyLink}
           target="_blank"
           rel="noopener noreferrer"
           aria-label={`Télécharger ${altText}`}
         >
           <span aria-label="cadeau" role="img">
-            🎁
+            ♥️
           </span>{' '}
-          <strong>Télécharger</strong>
+          <strong>Acheter</strong>
         </a>
-      ) : (
-        <Link to="subscribe" smooth={true} duration={250}>
-          <span className="button blue">
-            <span aria-label="réveil" role="img">
-              ⏰
-            </span>{' '}
-            Me prévenir
-          </span>
-        </Link>
-      )}
+      ) : null}
     </div>
   );
 }
