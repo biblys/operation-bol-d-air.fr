@@ -135,7 +135,8 @@
     "publisherUrl": "https://www.editions1115.com/",
     "altText": "Sur Mars de Arnauld Pontier",
     "coverImageUrl": "https://cdn.biblys.cloud/book/23/70423.jpg?w=300",
-    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique"
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique",
+    "paperEan": "9791097100353"
   },
   {
     "startDate": "2020-04-06",
@@ -144,7 +145,8 @@
     "publisherUrl": "https://www.arbre-vengeur.fr/",
     "altText": "L'homme truqué de Maurice Renard",
     "coverImageUrl": "https://cdn.biblys.cloud/book/34/71334.jpg?w=300",
-    "downloadLink": "https://livres.operation-bol-d-air.fr/a/maurice-renard/l-homme-truque_numerique"
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/maurice-renard/l-homme-truque_numerique",
+    "paperEan": "9791091504171"
   },
   {
     "startDate": "2020-04-07",
@@ -153,7 +155,8 @@
     "publisherUrl": "https://www.editionsvelvet.com/",
     "altText": "Va, rêve et reviens de Chiara ARSEGO",
     "coverImageUrl": "https://cdn.biblys.cloud/book/24/67024.jpg?version=10&w=300",
-    "downloadLink": "https://www.editionsvelvet.com/a/chiara-arsego/va-reve-et-reviens-ebook"
+    "downloadLink": "https://www.editionsvelvet.com/a/chiara-arsego/va-reve-et-reviens-ebook",
+    "paperEan": "9782490619023"
   },
   {
     "startDate": "2020-04-08",
@@ -162,7 +165,8 @@
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Sept secondes pour devenir un aigle de Thomas Day",
     "coverImageUrl": "https://cdn.biblys.cloud/book/98/40898.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/thomas-day/sept-secondes-pour-devenir-un-aigle"
+    "downloadLink": "https://www.belial.fr/thomas-day/sept-secondes-pour-devenir-un-aigle",
+    "paperEan": "9782843441219"
   },
   {
     "startDate": "2020-04-09",
@@ -171,7 +175,8 @@
     "publisherUrl": "http://www.asiatheque.com",
     "altText": "Je veux aller dans cette île de Lim CHUL-WOO",
     "coverImageUrl": "https://cdn.biblys.cloud/book/39/71339.jpg?w=300",
-    "downloadLink": "https://www.librairieduvoyageur.com/a/lim-chul-woo/je-veux-aller-dans-cette-ile_numerique"
+    "downloadLink": "https://www.librairieduvoyageur.com/a/lim-chul-woo/je-veux-aller-dans-cette-ile_numerique",
+    "paperEan": "9782360570454"
   },
   {
     "startDate": "2020-04-10",
@@ -180,7 +185,8 @@
     "publisherUrl": "http://www.georama.fr/",
     "altText": "Garce d'étoile de Hervé BELLEC",
     "coverImageUrl": "https://cdn.biblys.cloud/book/45/71345.jpg?w=300",
-    "downloadLink": "https://www.librairieduvoyageur.com/a/herve-bellec/garce-d-etoile-sur-les-chemins-de-compostelle_numerique"
+    "downloadLink": "https://www.librairieduvoyageur.com/a/herve-bellec/garce-d-etoile-sur-les-chemins-de-compostelle_numerique",
+    "paperEan": "9791096216277"
   },
   {
     "startDate": "2020-04-11",
@@ -189,7 +195,8 @@
     "publisherUrl": "https://www.dystopia.fr",
     "altText": "Yama Loka Terminus de Henry, Muchielli et Perger",
     "coverImageUrl": "https://cdn.biblys.cloud/book/18/54718.jpg?w=300",
-    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique"
+    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique",
+    "paperEan": "9791091146241"
   },
   {
     "startDate": "2020-04-13",
@@ -198,7 +205,8 @@
     "publisherUrl": "https://atelierdelagneau.com/",
     "altText": "E.X.E.R.C.I.C.E.S de Khalid El Morabethi / Cyrille Roussat",
     "coverImageUrl": "https://cdn.biblys.cloud/book/46/71346.jpg?w=300",
-    "downloadLink": "https://www.lautrelivre.fr/khalid-el-morabethi/exercices"
+    "downloadLink": "https://www.lautrelivre.fr/khalid-el-morabethi/exercices",
+    "paperEan": "9782374280042"
   },
   {
     "startDate": "2020-04-14",
@@ -207,7 +215,8 @@
     "publisherUrl": "https://editions.critic.fr/",
     "altText": "La Route de la Conquête de Lionel Davoust",
     "coverImageUrl": "https://cdn.biblys.cloud/book/47/71347.jpg?w=300",
-    "downloadLink": "https://livres.operation-bol-d-air.fr/a/lionel-davoust/la-route-de-la-conquete_numerique"
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/lionel-davoust/la-route-de-la-conquete_numerique",
+    "paperEan": "9791090648319"
   },
   {
     "startDate": "2020-04-15",
@@ -216,7 +225,8 @@
     "publisherUrl": "https://www.belial.fr/",
     "altText": "Issa Elohim de Laurent Kloetzer",
     "coverImageUrl": "https://cdn.biblys.cloud/book/71/63571.jpg?w=300",
-    "downloadLink": "https://www.belial.fr/laurent-kloetzer/issa-elohim_numerique"
+    "downloadLink": "https://www.belial.fr/laurent-kloetzer/issa-elohim_numerique",
+    "paperEan": "9782843449307"
   },
   {
     "startDate": "2020-04-16",
