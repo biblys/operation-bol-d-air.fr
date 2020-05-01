@@ -380,7 +380,10 @@
     "startDate": "2020-05-02",
     "endDate": "2020-05-06",
     "publisherName": "Les Carnets du Dessert de Lune",
-    "publisherUrl": "https://www.dessertdelune.be/"
+    "publisherUrl": "https://www.dessertdelune.be/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/85/71385.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/daniel-fano/bientot-la-convention-des-cannibales_numerique",
+    "paperEan": "9782930607559"
   },
   {
     "startDate": "2020-05-03",
