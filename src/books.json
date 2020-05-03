@@ -389,7 +389,10 @@
     "startDate": "2020-05-03",
     "endDate": "2020-05-09",
     "publisherName": "Le Petit Pavé",
-    "publisherUrl": "https://www.petitpave.fr/"
+    "publisherUrl": "https://www.petitpave.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/88/71388.jpg?w=200",
+    "downloadLink": "https://www.lautrelivre.fr/jacques-thomassaint/aller-simple",
+    "paperEan": "9782847122442"
   },
   {
     "startDate": "2020-05-04",
