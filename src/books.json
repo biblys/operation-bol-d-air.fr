@@ -390,7 +390,7 @@
     "endDate": "2020-05-09",
     "publisherName": "Le Petit Pavé",
     "publisherUrl": "https://www.petitpave.fr/",
-    "coverImageUrl": "https://cdn.biblys.cloud/book/88/71388.jpg?w=200",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/88/71388.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/jacques-thomassaint/aller-simple",
     "paperEan": "9782847122442"
   },
@@ -398,7 +398,10 @@
     "startDate": "2020-05-04",
     "endDate": "2020-05-08",
     "publisherName": "Zinédi",
-    "publisherUrl": "https://www.zinedi.com/"
+    "publisherUrl": "https://www.zinedi.com/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/91/71391.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/christine-sagnier/la-lettre-de-reclamation_numerique",
+    "paperEan": "9782848591780"
   },
   {
     "startDate": "2020-05-05",
