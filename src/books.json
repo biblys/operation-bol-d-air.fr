@@ -416,7 +416,10 @@
     "startDate": "2020-05-06",
     "endDate": "2020-05-09",
     "publisherName": "Au loup",
-    "publisherUrl": "http://www.auloup-editions.fr/"
+    "publisherUrl": "http://www.auloup-editions.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/99/71399.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/laurence-erwin/un-ete-en-ecosse",
+    "paperEan": "9791093950235"
   },
   {
     "startDate": "2020-05-07",
