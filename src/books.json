@@ -425,7 +425,11 @@
     "startDate": "2020-05-07",
     "endDate": "2020-05-09",
     "publisherName": "Lunatique",
-    "publisherUrl": "https://www.editions-lunatique.com"
+    "publisherUrl": "https://www.editions-lunatique.com",
+    "altText": "La Mort Embrasse Mal de Philippe VOURCH",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/01/71401.jpg?w=200",
+    "downloadLink": "https://www.lautrelivre.fr/philippe-vourch/la-mort-embrasse-mal_numerique",
+    "paperEan": "9791090424715"
   },
   {
     "startDate": "2020-05-08",
