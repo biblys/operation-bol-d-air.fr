@@ -435,7 +435,11 @@
     "startDate": "2020-05-08",
     "endDate": "2020-05-10",
     "publisherName": "ActuSF",
-    "publisherUrl": "https://www.editions-actusf.fr/"
+    "publisherUrl": "https://www.editions-actusf.fr/",
+    "altText": "Trois Guerres pour Emma de François DARNAUDET",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/88/37688.jpg?w=300",
+    "downloadLink": "https://www.riviereblanche.com/hors-series-hs12-trois-guerres-pour-emma.html",
+    "paperEan": "9781935558743"
   },
   {
     "startDate": "2020-05-09",
