@@ -445,12 +445,20 @@
     "startDate": "2020-05-09",
     "endDate": "2020-05-11",
     "publisherName": "Le Bélial'",
-    "publisherUrl": "https://www.belial.fr/"
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "L'Accroissement mathématique du plaisir de Catherine DUFOUR",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/64/6064.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/catherine-dufour/l-accroissement-mathematique-du-plaisir",
+    "paperEan": "9782843440830"
   },
   {
     "startDate": "2020-05-10",
     "endDate": "2020-05-14",
     "publisherName": "Dystopia",
-    "publisherUrl": "https://www.dystopia.fr/"
+    "publisherUrl": "https://www.dystopia.fr/",
+    "altText": "Dernières nouvelles d’Œsthrénie de Anne-Sylvie SALZMAN",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/47/53447.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/anne-sylvie-salzman/dernieres-nouvelles-dsthrenie_numerique",
+    "paperEan": "9791091146111"
   }
 ]
