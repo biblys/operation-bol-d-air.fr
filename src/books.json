@@ -1,0 +1,456 @@
+[
+  {
+    "startDate": "2020-03-21",
+    "endDate": "2020-04-01",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Vie™ de Jean Baret",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/31/69431.jpg?version=2&w=300",
+    "paperEan": "9782843449567",
+    "downloadLink": "https://www.belial.fr/jean-baret/vie-tm"
+  },
+  {
+    "startDate": "2020-03-22",
+    "endDate": "2020-04-01",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr/",
+    "altText": "Les Soldats de la mer de Yves & Ada Rémy",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/57/41957.jpg?w=300",
+    "paperEan": "9791091146036",
+    "downloadLink": "https://www.dystopia.fr/a/yves-et-ada-remy/les-soldats-de-la-mer_numerique"
+  },
+  {
+    "startDate": "2020-03-23",
+    "endDate": "2020-04-01",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Là où les patients m'emmènent de Georges LEWKOWICZ",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/79/66779.jpg?w=300",
+    "paperEan": "9782490619016",
+    "downloadLink": "https://www.editionsvelvet.com/a/georges-lewkowicz/la-ou-les-patients-memmenent-ebook"
+  },
+  {
+    "startDate": "2020-03-24",
+    "endDate": "2020-04-01",
+    "publisherName": "Scylla",
+    "publisherUrl": "https://editions.scylla.fr/",
+    "altText": "Il faudrait pour grandir oublier la frontière de Sébastien JUILLARD",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/48246.jpg?w=300",
+    "paperEan": "9782954930305",
+    "downloadLink": "https://editions.scylla.fr/a/sebastien-juillard/il-faudrait-pour-grandir-oublier-la-frontiere_numerique"
+  },
+  {
+    "startDate": "2020-03-25",
+    "endDate": "2020-04-01",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Comment parler à un alien ? de Frédéric LANDRAGIN",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/26/66326.jpg?w=300",
+    "paperEan": "9782843449437",
+    "downloadLink": "https://www.belial.fr/frederic-landragin/comment-parler-a-un-alien"
+  },
+  {
+    "startDate": "2020-03-26",
+    "endDate": "2020-04-01",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr/",
+    "altText": "Ainsi naissent les fantômes de Lisa Tuttle",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/97/22297.jpg?w=300",
+    "paperEan": "9782953595130",
+    "downloadLink": "https://www.dystopia.fr/a/lisa-tuttle/ainsi-naissent-les-fantomes_numerique"
+  },
+  {
+    "startDate": "2020-03-27",
+    "endDate": "2020-04-01",
+    "publisherName": "ActuSF",
+    "publisherUrl": "https://www.editions-actusf.fr/",
+    "altText": "Théâtres de cendres de Karim BERROUKA",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/75/41475.jpg?w=300",
+    "downloadLink": "https://www.editions-actusf.fr/a/karim-berrouka/theatres-de-cendres"
+  },
+  {
+    "startDate": "2020-03-28",
+    "endDate": "2020-04-01",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Et toi, t'en penses quoi ? de Ray Clid",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/81/64481.jpg?w=300",
+    "downloadLink": "https://www.editionsvelvet.com/a/ray-clid/et-toi-t-en-penses-quoi-ebook",
+    "paperEan": "9782490619009"
+  },
+  {
+    "startDate": "2020-03-30",
+    "endDate": "2020-04-01",
+    "publisherName": "Callidor",
+    "publisherUrl": "https://www.editions-callidor.com/",
+    "altText": "Le Loup des steppes de Harold Lamb",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/87/71287.jpg?w=300",
+    "downloadLink": "http://livres.operation-bol-d-air.fr/a/harold-lamb/le-loup-des-steppes_numerique",
+    "paperEan": "9782953944730"
+  },
+  {
+    "startDate": "2020-03-31",
+    "endDate": "2020-04-01",
+    "publisherName": "Scylla",
+    "publisherUrl": "https://editions.scylla.fr/",
+    "altText": "Bienvenue à Sturkeyville de Bob Leman",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/25/67825.jpg?w=300",
+    "downloadLink": "https://editions.scylla.fr/a/bob-leman/bienvenue-a-sturkeyville_numerique",
+    "paperEan": "9782956009504"
+  },
+  {
+    "startDate": "2020-04-01",
+    "endDate": "2020-04-01",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Poumon vert de Ian R. MacLeod",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/34/59934.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/ian-r-macleod/poumon-vert",
+    "paperEan": "9782843449185"
+  },
+  {
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-04",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr/",
+    "altText": "Cru de luvan",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/53446.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/luvan/cru_numerique",
+    "paperEan": "9791091146050"
+  },
+  {
+    "startDate": "2020-04-03",
+    "endDate": "2020-04-06",
+    "publisherName": "JCM",
+    "publisherUrl": "",
+    "altText": "Le Vaisseau ardent de Jean-Claude Marguerite",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/06/71306.jpg?w=300",
+    "downloadLink": "http://touslire.biblys.fr/a/jean-claude-marguerite/le-vaisseau-ardent_numerique",
+    "paperEan": "9782070447213"
+  },
+  {
+    "startDate": "2020-04-04",
+    "endDate": "2020-04-08",
+    "publisherName": "1115",
+    "publisherUrl": "https://www.editions1115.com/",
+    "altText": "Sur Mars de Arnauld Pontier",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/23/70423.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/arnauld-pontier/sur-mars_numerique",
+    "paperEan": "9791097100353"
+  },
+  {
+    "startDate": "2020-04-06",
+    "endDate": "2020-04-09",
+    "publisherName": "L'Arbre vengeur",
+    "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "altText": "L'homme truqué de Maurice Renard",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/34/71334.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/maurice-renard/l-homme-truque_numerique",
+    "paperEan": "9791091504171"
+  },
+  {
+    "startDate": "2020-04-07",
+    "endDate": "2020-04-09",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Va, rêve et reviens de Chiara ARSEGO",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/24/67024.jpg?version=10&w=300",
+    "downloadLink": "https://www.editionsvelvet.com/a/chiara-arsego/va-reve-et-reviens-ebook",
+    "paperEan": "9782490619023"
+  },
+  {
+    "startDate": "2020-04-08",
+    "endDate": "2020-04-10",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Sept secondes pour devenir un aigle de Thomas Day",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/98/40898.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/thomas-day/sept-secondes-pour-devenir-un-aigle",
+    "paperEan": "9782843441219"
+  },
+  {
+    "startDate": "2020-04-09",
+    "endDate": "2020-04-12",
+    "publisherName": "L'Asiathèque",
+    "publisherUrl": "http://www.asiatheque.com",
+    "altText": "Je veux aller dans cette île de Lim CHUL-WOO",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/39/71339.jpg?w=300",
+    "downloadLink": "https://www.librairieduvoyageur.com/a/lim-chul-woo/je-veux-aller-dans-cette-ile_numerique",
+    "paperEan": "9782360570454"
+  },
+  {
+    "startDate": "2020-04-10",
+    "endDate": "2020-04-14",
+    "publisherName": "Géorama",
+    "publisherUrl": "http://www.georama.fr/",
+    "altText": "Garce d'étoile de Hervé BELLEC",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/45/71345.jpg?w=300",
+    "downloadLink": "https://www.librairieduvoyageur.com/a/herve-bellec/garce-d-etoile-sur-les-chemins-de-compostelle_numerique",
+    "paperEan": "9791096216277"
+  },
+  {
+    "startDate": "2020-04-11",
+    "endDate": "2020-04-13",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr",
+    "altText": "Yama Loka Terminus de Henry, Muchielli et Perger",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/18/54718.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/leo-henry-jacques-mucchielli/yama-loka-terminus_numerique",
+    "paperEan": "9791091146241"
+  },
+  {
+    "startDate": "2020-04-13",
+    "endDate": "2020-04-16",
+    "publisherName": "At. de l'agneau",
+    "publisherUrl": "https://atelierdelagneau.com/",
+    "altText": "E.X.E.R.C.I.C.E.S de Khalid El Morabethi / Cyrille Roussat",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/46/71346.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/khalid-el-morabethi/exercices",
+    "paperEan": "9782374280042"
+  },
+  {
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-16",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "La Route de la Conquête de Lionel Davoust",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/47/71347.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/lionel-davoust/la-route-de-la-conquete_numerique",
+    "paperEan": "9791090648319"
+  },
+  {
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-17",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Issa Elohim de Laurent Kloetzer",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/71/63571.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/laurent-kloetzer/issa-elohim_numerique",
+    "paperEan": "9782843449307"
+  },
+  {
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-20",
+    "publisherName": "Editions 1115",
+    "publisherUrl": "https://www.editions1115.com/",
+    "altText": "Chronopages : morceaux choisis",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/49/71349.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/collectif/chronopages-morceaux-choisis",
+    "paperEan": "9791097100674"
+  },
+  {
+    "startDate": "2020-04-17",
+    "endDate": "2020-04-23",
+    "publisherName": "Tous Lire",
+    "publisherUrl": "https://touslire.com/",
+    "altText": "Les Contes de ma mère l'Oye, en français d'aujourd'hui",
+    "coverImageUrl": "https://media.biblys.fr/book/51/71351.jpg?w=300",
+    "downloadLink": "https://touslire.biblys.fr/a/charles-perrault/les-contes-de-ma-mere-l-oye-en-francais-d-aujourd-hui",
+    "paperEan": ""
+  },
+  {
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-24",
+    "publisherName": "Z4 Editions",
+    "publisherUrl": "https://z4editions.fr/",
+    "altText": "Ce n'est rien de Daniel Ziv",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/52/71352.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/daniel-ziv/ce-n-est-rien",
+    "paperEan": "9782490595587"
+  },
+  {
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "publisherName": "Velvet",
+    "publisherUrl": "https://www.editionsvelvet.com/",
+    "altText": "Le joueur et sa passion, sous la direction de Michel Steiner",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/47/69647.jpg?version=2&w=300",
+    "downloadLink": "https://www.editionsvelvet.com/a/michel-steiner/le-joueur-et-sa-passion-ebook",
+    "paperEan": "9782490619030"
+  },
+  {
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-22",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "Dominium Mundi de François BARANGER",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/59/71359.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/francois-baranger/dominium-mundi_numerique",
+    "paperEan": "9782375790304"
+  },
+  {
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-28",
+    "publisherName": "Kilowatt",
+    "publisherUrl": "http://www.kilowatt.fr/",
+    "altText": "Dominium Mundi de François BARANGER",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/62/71362.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/collectif/un-crocodile-sur-mon-toit",
+    "paperEan": "9782917045640"
+  },
+  {
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-25",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr",
+    "altText": "L'apocalypse des homards de Jean-Marc Agrati",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/92/33092.jpg?w=300",
+    "downloadLink": "https://www.dystopia.fr/a/jean-marc-agrati/l-apocalypse-des-homards_numerique",
+    "paperEan": "9782953595123"
+  },
+  {
+    "startDate": "2020-04-24",
+    "endDate": "2020-04-30",
+    "publisherName": "À plus d'un titre",
+    "publisherUrl": "https://www.aplusduntitre.org/",
+    "altText": "L'évènement Gilets jaunes de .../temps critiques",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/83/68783.jpg?version=6?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/temps-critiques/l-evenement-gilets-jaunes_numerique",
+    "paperEan": "9782917486610"
+  },
+  {
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-27",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/",
+    "altText": "Les Ferrailleurs du cosmos de Eric Brown",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/02/64802.jpg?w=300",
+    "downloadLink": "https://www.belial.fr/eric-brown/les-ferrailleurs-du-cosmos_numerique",
+    "paperEan": "9782843449321"
+  },
+  {
+    "startDate": "2020-04-26",
+    "endDate": "2020-04-30",
+    "publisherName": "Tituli",
+    "publisherUrl": "https://www.tituli.fr/",
+    "altText": "L'absolu et un café de France BILLAND",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/73/70673.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/france-billand/l-absolu-et-un-cafe_numerique",
+    "paperEan": "9782373651393"
+  },
+  {
+    "startDate": "2020-04-27",
+    "endDate": "2020-04-30",
+    "publisherName": "L'Arbre vengeur",
+    "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "altText": "L'homme que les arbres aimaient de Algernon BLACKWOOD",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/78/71378.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/algernon-blackwood/l-homme-que-les-arbres-aimaient_numerique",
+    "paperEan": "9791091504584"
+  },
+  {
+    "startDate": "2020-04-28",
+    "endDate": "2020-04-30",
+    "publisherName": "Critic",
+    "publisherUrl": "https://editions.critic.fr/",
+    "altText": "L'Empire du léopard de Emmanuel CHASTELLIÈRE",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/80/71380.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/emmanuel-chastelliere/l-empire-du-leopard_numerique",
+    "paperEan": "9782375790458"
+  },
+  {
+    "startDate": "2020-04-29",
+    "endDate": "2020-05-05",
+    "publisherName": "Chèvre-feuille étoilée",
+    "publisherUrl": "https://www.editionsfemmeschevrefeuille.fr/",
+    "altText": "Etoiles d'encre N°65 Quelles frontières ?",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/81/71381.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/collectif/etoiles-d-encre-n65-quelles-frontieres",
+    "paperEan": "9782367951034"
+  },
+  {
+    "startDate": "2020-04-30",
+    "endDate": "2020-05-05",
+    "publisherName": "Canoë",
+    "publisherUrl": "https://www.editionsducanoe.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/84/71384.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/luc-lagarde/bowie-la-touche-etoile",
+    "paperEan": "9782490251131"
+  },
+  {
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-03",
+    "publisherName": "ActuSF",
+    "publisherUrl": "https://www.editions-actusf.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/89/66089.jpg?w=300",
+    "downloadLink": "https://www.editions-actusf.fr/a/jean-marc-ligny/chroniques-integrale",
+    "paperEan": "9782917689233"
+  },
+  {
+    "startDate": "2020-05-02",
+    "endDate": "2020-05-06",
+    "publisherName": "Les Carnets du Dessert de Lune",
+    "publisherUrl": "https://www.dessertdelune.be/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/85/71385.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/daniel-fano/bientot-la-convention-des-cannibales_numerique",
+    "paperEan": "9782930607559"
+  },
+  {
+    "startDate": "2020-05-03",
+    "endDate": "2020-05-09",
+    "publisherName": "Le Petit Pavé",
+    "publisherUrl": "https://www.petitpave.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/88/71388.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/jacques-thomassaint/aller-simple",
+    "paperEan": "9782847122442"
+  },
+  {
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-08",
+    "publisherName": "Zinédi",
+    "publisherUrl": "https://www.zinedi.com/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/91/71391.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/christine-sagnier/la-lettre-de-reclamation_numerique",
+    "paperEan": "9782848591780"
+  },
+  {
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-08",
+    "publisherName": "L'Arbre vengeur",
+    "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/94/71394.jpg?w=300",
+    "downloadLink": "https://livres.operation-bol-d-air.fr/a/alfred-louis-franklin/les-ruines-de-paris-en-4908_numerique",
+    "paperEan": "9782916141350"
+  },
+  {
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-09",
+    "publisherName": "Au loup",
+    "publisherUrl": "http://www.auloup-editions.fr/",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/99/71399.jpg?w=300",
+    "downloadLink": "https://www.lautrelivre.fr/laurence-erwin/un-ete-en-ecosse",
+    "paperEan": "9791093950235"
+  },
+  {
+    "startDate": "2020-05-07",
+    "endDate": "2020-05-09",
+    "publisherName": "Lunatique",
+    "publisherUrl": "https://www.editions-lunatique.com",
+    "altText": "La Mort Embrasse Mal de Philippe VOURCH",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/01/71401.jpg?w=200",
+    "downloadLink": "https://www.lautrelivre.fr/philippe-vourch/la-mort-embrasse-mal_numerique",
+    "paperEan": "9791090424715"
+  },
+  {
+    "startDate": "2020-05-08",
+    "endDate": "2020-05-10",
+    "publisherName": "ActuSF",
+    "publisherUrl": "https://www.editions-actusf.fr/",
+    "altText": "Trois Guerres pour Emma de François DARNAUDET",
+    "coverImageUrl": "https://cdn.biblys.cloud/book/88/37688.jpg?w=300",
+    "downloadLink": "https://www.editions-actusf.fr/a/francois-darnaudet/trois-guerres-pour-emma",
+    "paperEan": "9781935558743"
+  },
+  {
+    "startDate": "2020-05-09",
+    "endDate": "2020-05-11",
+    "publisherName": "Le Bélial'",
+    "publisherUrl": "https://www.belial.fr/"
+  },
+  {
+    "startDate": "2020-05-10",
+    "endDate": "2020-05-14",
+    "publisherName": "Dystopia",
+    "publisherUrl": "https://www.dystopia.fr/"
+  }
+]
