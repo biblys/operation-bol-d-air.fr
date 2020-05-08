@@ -9,9 +9,14 @@ export default function AboutPage() {
     <div id="about" className="AboutPage">
       <h1 className="page-title">À propos</h1>
       <div className="text">
-        <h2 className="section-title">Bol d'air, c'est quoi&nbsp;?</h2>
         <p>
-          C'est une opération propulsée par{' '}
+          <strong>
+            L'opération Bol d'air a pris fin le dimanche 10 mai 2020.
+          </strong>
+        </p>
+        <h2 className="section-title">Bol d'air, c'était quoi&nbsp;?</h2>
+        <p>
+          C'était une opération propulsée par{' '}
           <a
             href="https://www.biblys.fr/"
             target="_blank"
@@ -20,16 +25,17 @@ export default function AboutPage() {
             Biblys
           </a>
           , mais ouvert à tous les éditeurs indépendants qui souhaitent
-          participer.
+          participer, menée pendant la période du grand confinement française du
+          21 mars au 10 mai 2020.
         </p>
         <p>
-          Elle consiste pour ces éditeurs à offrir chaque jour que durera la
-          période de confinement française un livre numérique gratuit, sans DRM,
-          à leurs lecteurs, pour tenir jusqu'à la réouverture des librairies.
+          Elle consistait pour les éditeurs participants à offrir chaque jour un
+          livre numérique gratuit, sans DRM, à leurs lecteurs et lectrices, pour
+          tenir jusqu'à la réouverture des librairies.
         </p>
         <p>
-          L'opération existe via le présent site, une{' '}
-          <a href="#subscribe">newsletter quotidienne</a> et une{' '}
+          L'opération a existé via le présent site, une newsletter quotidienne
+          et une{' '}
           <a
             href="https://www.facebook.com/operationboldair/"
             target="_blank"
@@ -116,12 +122,7 @@ export default function AboutPage() {
         <h2 className="section-title">
           Je suis éditeur, comment participer&nbsp;?
         </h2>
-        <p>
-          Consultez la{' '}
-          <a href="https://community.inkdrop.app/note/d6f03670903bd697c1f87f37bb028bbe/note:BiLxUe76u">
-            FAQ Éditeurs
-          </a>
-        </p>
+        <p>L'opération est terminée.</p>
 
         <h2 className="section-title">
           D'où viennent toutes ces belles images de chèvres&nbsp;?
