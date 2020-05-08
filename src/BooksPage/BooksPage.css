@@ -4,6 +4,17 @@
   position: relative;
 }
 
+.BooksPage .header {
+  color: black;
+  margin: auto;
+  padding: 0 15px;
+  max-width: 560px;
+}
+
+.BooksPage .header p {
+  margin-top: 5px;
+}
+
 .BooksPage .books {
   align-items: baseline;
   display: flex;
