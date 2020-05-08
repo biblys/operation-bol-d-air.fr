@@ -2,8 +2,6 @@ import React from 'react';
 import moment from 'moment';
 import 'moment/locale/fr';
 
-import backgroundResizer from '../lib/backgroundResizer';
-
 import BookComponent from './Book';
 
 import 'swiper/css/swiper.css';
@@ -21,20 +19,11 @@ const books = bookList.map(book => {
   };
 });
 
-const backgroundImageFile = 'books-page-background.jpg';
-const backgroundImage = backgroundResizer(
-  backgroundImageFile,
-  window.innerWidth,
-  window.innerHeight,
-  window.devicePixelRatio
-);
-
 export default function BooksPage() {
   return (
     <div
       id="books"
-      className="BooksPage page with-background-image"
-      style={{ backgroundImage }}
+      className="BooksPage page"
     >
       <p>Voici les 46 livres qui vous ont été offerts par les éditeurs, entre le 21 mars et le 10 mai, pour vous soutenir pendant la période de confinement.</p>
       <div className="books">
