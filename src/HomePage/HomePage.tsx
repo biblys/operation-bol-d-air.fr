@@ -6,41 +6,16 @@ import { Link } from 'react-scroll';
 import './HomePage.css';
 
 const backgroundImageFile = 'home-page-background.jpg';
-const backgroundImage = backgroundResizer(
-  backgroundImageFile,
-  window.innerWidth,
-  window.innerHeight,
-  window.devicePixelRatio
-);
 
 export default function HomePage() {
   return (
     <div
       id="home"
-      className="HomePage page with-background-image"
-      style={{ backgroundImage }}
+      className="HomePage page"
     >
       <header className="header">
-        <h1 className="page-title">Opération Bol d'air</h1>
-        <p className="page-subtitle">- spécial confinement -</p>
+        <h1 className="page-title">L'Opération Bol d'air, c'est fini !</h1>
       </header>
-
-      <p className="catchline">
-        <span className="catchline-highlight">
-          Un ebook gratuit chaque jour
-          <br />
-          pour ne pas devenir chèvre !
-        </span>
-      </p>
-
-      <footer id="home-footer" className="footer">
-        <Link to="home-footer" smooth={true} duration={250} role="button">
-          Découvrir les livres{' '}
-          <span role="img" aria-label="down">
-            👇
-          </span>
-        </Link>
-      </footer>
     </div>
   );
 }

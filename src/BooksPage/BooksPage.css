@@ -12,7 +12,9 @@
 }
 
 .BooksPage .header p {
-  margin-top: 5px;
+  font-size: 1.25rem;
+  margin-top: 10px;
+  text-align: left;
 }
 
 .BooksPage .books {

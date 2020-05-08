@@ -1,5 +1,5 @@
 .HomePage .page-title {
-  color: white;
+  color: black;
   font-family: 'Norican', cursive;
 }
 
@@ -30,11 +30,5 @@
   .HomePage .catchline {
     font-size: 2rem;
     width: 430px;
-  }
-}
-
-@media (min-aspect-ratio: 1/1) {
-  .HomePage .header {
-    width: 50%;
   }
 }
