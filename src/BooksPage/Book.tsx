@@ -24,7 +24,7 @@ export default function({
   return (
     <div className="Book">
       <div className="book-cover">
-        {coverImageUrl && started ? (
+        {coverImageUrl ? (
           <img src={coverImageUrl} alt={altText} className="book-cover-image" />
         ) : (
           <img
