@@ -19,7 +19,20 @@ const books = bookList.map(book => {
   };
 });
 
+// Get publishers name and url from books array
+const booksPublishers = books.map(({ publisherName, publisherUrl }) => {
+  return { name: publisherName, url: publisherUrl };
+});
+
+// Filter to keep only unique publishers
+const publishers = booksPublishers.filter((publisher, index, array) => {
+  return (
+    array.map(publisher => publisher.name).indexOf(publisher.name) === index
+  );
+});
+
 export default function BooksPage() {
+  console.log(publishers);
   return (
     <div id="books" className="BooksPage page">
       <header className="header">
@@ -45,6 +58,15 @@ export default function BooksPage() {
         {books.map(book => (
           <div key={book.startDate.format('YYYY-MM-DD')}>
             <BookComponent {...book} />
+          </div>
+        ))}
+      </div>
+      <div className="publishers">
+        {publishers.map(publisher => (
+          <div key={publisher.name}>
+            <a href={publisher.url} target="_blank" rel="noopener noreferrer">
+              {publisher.name}
+            </a>
           </div>
         ))}
       </div>
