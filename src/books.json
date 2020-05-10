@@ -283,7 +283,7 @@
     "endDate": "2020-04-28",
     "publisherName": "Kilowatt",
     "publisherUrl": "http://www.kilowatt.fr/",
-    "altText": "Dominium Mundi de François BARANGER",
+    "altText": "Un crocodile sur mon toit",
     "coverImageUrl": "https://cdn.biblys.cloud/book/62/71362.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/collectif/un-crocodile-sur-mon-toit",
     "paperEan": "9782917045640"
@@ -363,6 +363,7 @@
     "endDate": "2020-05-05",
     "publisherName": "Canoë",
     "publisherUrl": "https://www.editionsducanoe.fr/",
+    "altText": "Bowie, la touche étoile de Luc Lagarde",
     "coverImageUrl": "https://cdn.biblys.cloud/book/84/71384.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/luc-lagarde/bowie-la-touche-etoile",
     "paperEan": "9782490251131"
@@ -372,6 +373,7 @@
     "endDate": "2020-05-03",
     "publisherName": "ActuSF",
     "publisherUrl": "https://www.editions-actusf.fr/",
+    "altText": "Les Chroniques des nouveaux mondes, l'intégrale, de Jean-Marc Ligny",
     "coverImageUrl": "https://cdn.biblys.cloud/book/89/66089.jpg?w=300",
     "downloadLink": "https://www.editions-actusf.fr/a/jean-marc-ligny/chroniques-integrale",
     "paperEan": "9782917689233"
@@ -381,6 +383,7 @@
     "endDate": "2020-05-06",
     "publisherName": "Les Carnets du Dessert de Lune",
     "publisherUrl": "https://www.dessertdelune.be/",
+    "altText": "Bientôt la Convention des cannibales, de Daniel Fano",
     "coverImageUrl": "https://cdn.biblys.cloud/book/85/71385.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/daniel-fano/bientot-la-convention-des-cannibales_numerique",
     "paperEan": "9782930607559"
@@ -390,6 +393,7 @@
     "endDate": "2020-05-09",
     "publisherName": "Le Petit Pavé",
     "publisherUrl": "https://www.petitpave.fr/",
+    "altText": "Aller simple, de Jacques Thomassaint",
     "coverImageUrl": "https://cdn.biblys.cloud/book/88/71388.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/jacques-thomassaint/aller-simple",
     "paperEan": "9782847122442"
@@ -399,6 +403,7 @@
     "endDate": "2020-05-08",
     "publisherName": "Zinédi",
     "publisherUrl": "https://www.zinedi.com/",
+    "altText": "La Lettre de réclamation, de Christine Sagnier",
     "coverImageUrl": "https://cdn.biblys.cloud/book/91/71391.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/christine-sagnier/la-lettre-de-reclamation_numerique",
     "paperEan": "9782848591780"
@@ -408,6 +413,7 @@
     "endDate": "2020-05-08",
     "publisherName": "L'Arbre vengeur",
     "publisherUrl": "https://www.arbre-vengeur.fr/",
+    "altText": "Les ruines de Paris en 4908, d'Alfred Franklin",
     "coverImageUrl": "https://cdn.biblys.cloud/book/94/71394.jpg?w=300",
     "downloadLink": "https://livres.operation-bol-d-air.fr/a/alfred-louis-franklin/les-ruines-de-paris-en-4908_numerique",
     "paperEan": "9782916141350"
@@ -417,6 +423,7 @@
     "endDate": "2020-05-09",
     "publisherName": "Au loup",
     "publisherUrl": "http://www.auloup-editions.fr/",
+    "altText": "Un été en Écosse, de Laurence Erwin",
     "coverImageUrl": "https://cdn.biblys.cloud/book/99/71399.jpg?w=300",
     "downloadLink": "https://www.lautrelivre.fr/laurence-erwin/un-ete-en-ecosse",
     "paperEan": "9791093950235"
